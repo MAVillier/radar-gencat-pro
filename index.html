@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang='ca'>
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <meta name='theme-color' content='#07111f'>
+  <title>Radar Gencat Pro</title>
+  <link rel='preconnect' href='https://fonts.googleapis.com'>
+  <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+  <link href='https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap' rel='stylesheet'>
+  <link rel='stylesheet' href='styles.css'>
+</head>
+<body>
+  <div class='shell'>
+    <header class='hero glass'>
+      <div class='hero__left'>
+        <div class='eyebrow'>RADAR GENCAT PRO</div>
+        <h1>Licitacions públiques de la Generalitat i focus CTTI</h1>
+        <p>Fitxes mòbil-first amb senyals prèvies, programació 2026, incumbent, baixa històrica i mòdul d'avisos. Sincronització automàtica cada hora via GitHub Actions.</p>
+      </div>
+      <div class='hero__right'>
+        <button id='reloadBtn' class='btn'>Actualitza vista</button>
+        <a id='rawLink' class='btn btn--ghost' href='data/snapshot.json' target='_blank' rel='noopener'>JSON</a>
+      </div>
+      <div class='stats'>
+        <div class='stat'><span>Fitxes</span><strong id='statTotal'>—</strong></div>
+        <div class='stat'><span>CTTI</span><strong id='statCtti'>—</strong></div>
+        <div class='stat'><span>Amb incumbent</span><strong id='statInc'>—</strong></div>
+        <div class='stat'><span>Darrer sync</span><strong id='statSync'>—</strong></div>
+      </div>
+    </header>
+
+    <section class='toolbar glass'>
+      <input id='q' class='input input--grow' placeholder='cerca per expedient, objecte, CPV, adjudicatari...'>
+      <select id='scope' class='input'>
+        <option value='ctti'>Només CTTI</option>
+        <option value='generalitat' selected>Generalitat</option>
+        <option value='all'>Tot el snapshot</option>
+      </select>
+      <select id='status' class='input'>
+        <option value='all'>Tots els estats</option>
+        <option value='licitacio'>Licitació</option>
+        <option value='avaluacio'>Avaluació</option>
+        <option value='adjudicacio'>Adjudicació</option>
+        <option value='formalitzacio'>Formalització</option>
+        <option value='execucio'>Execució</option>
+        <option value='previ'>Anunci previ</option>
+        <option value='consulta'>Consulta mercat</option>
+        <option value='programada'>Programada 2026</option>
+      </select>
+      <select id='days' class='input'>
+        <option value='30'>30 dies</option>
+        <option value='60' selected>60 dies</option>
+        <option value='90'>90 dies</option>
+        <option value='180'>180 dies</option>
+      </select>
+      <label class='check'><input id='onlySignals' type='checkbox'> només amb senyals</label>
+      <label class='check'><input id='onlyInc' type='checkbox'> només amb incumbent</label>
+    </section>
+
+    <section id='metaBanner' class='banner glass hidden'></section>
+    <section id='loading' class='state glass'>Carregant snapshot...</section>
+    <section id='error' class='state glass hidden'></section>
+    <section id='empty' class='state glass hidden'>Sense resultats amb aquests filtres.</section>
+    <section id='grid' class='grid hidden'></section>
+  </div>
+  <script src='app.js'></script>
+</body>
+</html>

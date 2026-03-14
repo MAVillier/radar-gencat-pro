@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "generated_at": "2026-03-14T16:54:12Z",
+    "snapshot_scope": "Generalitat de Catalunya + focus CTTI",
+    "items": 2,
+    "sources": [
+      "PSCP publicacions",
+      "PSCP execució",
+      "Programació 2026",
+      "Adjudicacions històriques"
+    ]
+  },
+  "items": [
+    {
+      "title": "Servei de manteniment evolutiu i suport d’una plataforma de tramitació digital multidepartamental",
+      "organ": "Centre de Telecomunicacions i Tecnologies de la Informació de la Generalitat de Catalunya",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CTTI-2026-041",
+      "cpv": "72262000-9",
+      "amount": 2480000,
+      "date": "2026-03-11T09:12:00Z",
+      "status": "licitacio",
+      "url": "https://contractaciopublica.cat/ca/perfils-contractant/detall/ctti?categoria=0",
+      "follow_url": "https://contractaciopublica.cat/ca/perfils-contractant/detall/ctti?categoria=0",
+      "priority": "Oportunitat alta",
+      "tags": [
+        "licitacio",
+        "consulta",
+        "previ"
+      ],
+      "alerts": {
+        "count": 6,
+        "latest_short": "Plecs rectificats",
+        "recent_short": [
+          "Plecs rectificats",
+          "Termini ampliat",
+          "Dubtes resolts"
+        ],
+        "url": "https://contractaciopublica.cat/ca/perfils-contractant/detall/ctti?categoria=0"
+      },
+      "signals": {
+        "count": 2,
+        "labels": [
+          "Consulta mercat",
+          "Anunci previ"
+        ],
+        "url": "https://contractaciopublica.cat/ca/perfils-contractant/detall/ctti?categoria=0"
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Contractació programada 2026 - Plataformes de tramitació digital",
+        "amount": 5000000,
+        "url": "https://contractaciopublica.cat/ca/perfils-contractant/detall/ctti?categoria=0"
+      },
+      "incumbent": {
+        "provider": "Example Consulting, S.A.",
+        "discount_pct": 8.5,
+        "previous_contract": "CTTI-2024-118",
+        "url": "https://contractaciopublica.cat/ca/perfils-contractant/detall/ctti?categoria=0",
+        "date": "2024-10-14T10:00:00Z"
+      }
+    },
+    {
+      "title": "Oficina tècnica per al govern i evolució d’aplicacions corporatives",
+      "organ": "Departament de la Presidència",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "PRE-2026-052",
+      "cpv": "72224000-1",
+      "amount": 3150000,
+      "date": "2026-03-13T08:45:00Z",
+      "status": "licitacio",
+      "url": "https://contractaciopublica.cat/ca/inici",
+      "follow_url": "https://contractaciopublica.cat/ca/inici",
+      "priority": "Seguiment prioritari",
+      "tags": [
+        "licitacio",
+        "previ"
+      ],
+      "alerts": {
+        "count": 4,
+        "latest_short": "Dubtes resolts",
+        "recent_short": [
+          "Dubtes resolts",
+          "Annex corregit",
+          "Licitació oberta"
+        ],
+        "url": "https://contractaciopublica.cat/ca/inici"
+      },
+      "signals": {
+        "count": 1,
+        "labels": [
+          "Anunci previ"
+        ],
+        "url": "https://contractaciopublica.cat/ca/inici"
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Programació 2026 - Govern i evolució d’aplicacions corporatives",
+        "amount": 6300000,
+        "url": "https://analisi.transparenciacatalunya.cat/Economia/Contractaci-programada-de-la-Generalitat-de-Catalu/u9d7-egbx"
+      },
+      "incumbent": {
+        "provider": "Tech Delivery Iberia, S.L.",
+        "discount_pct": 9.0,
+        "previous_contract": "CTTI-2023-097",
+        "url": "https://analisi.transparenciacatalunya.cat/Economia/Contractaci-de-la-Generalitat-de-Catalunya-adjudic/nn7v-4yxe",
+        "date": "2023-12-21T10:00:00Z"
+      }
+    }
+  ]
+}
