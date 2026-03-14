@@ -19,8 +19,8 @@ function money(v) {
 function shortDate(v) {
   if (!v) return '—';
   const d = new Date(v);
-  return Number.isNaN(d)
-    ? v
+  return Number.isNaN(d.getTime())
+    ? String(v)
     : new Intl.DateTimeFormat('ca-ES', { dateStyle: 'medium' }).format(d);
 }
 
@@ -52,7 +52,7 @@ function validHref(v) {
 }
 
 function scopeMatch(r, scope) {
-  const txt = `${r.organ} ${r.scope} ${(r.tags || []).join(' ')}`;
+  const txt = `${r.organ || ''} ${r.scope || ''} ${(r.tags || []).join(' ')}`;
   if (scope === 'ctti') return /ctti|centre de telecomunicacions/i.test(txt);
   if (scope === 'generalitat') {
     return /generalitat|departament|institut catal|servei catal|agencia|agència|ferrocarrils|infraestructures/i.test(txt);
@@ -84,30 +84,94 @@ function textMatch(r, q) {
   return hay.includes(q);
 }
 
-async function load() {
-  $('#loading').classList.remove('hidden');
+function showLoading(msg = 'Carregant snapshot...') {
+  const box = $('#loading');
+  box.textContent = msg;
+  box.classList.remove('hidden');
   $('#error').classList.add('hidden');
   $('#grid').classList.add('hidden');
   $('#empty').classList.add('hidden');
+}
+
+function showError(msg) {
+  $('#loading').classList.add('hidden');
+  const box = $('#error');
+  box.innerHTML = `<strong>Error carregant dades</strong><br>${esc(msg)}`;
+  box.classList.remove('hidden');
+  $('#grid').classList.add('hidden');
+  $('#empty').classList.add('hidden');
+}
+
+function hideLoading() {
+  $('#loading').classList.add('hidden');
+}
+
+async function fetchWithTimeout(url, timeoutMs = 12000) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const res = await fetch(url, {
+      cache: 'no-store',
+      signal: controller.signal,
+      headers: { accept: 'application/json' }
+    });
+    return res;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function loadSnapshot() {
+  const candidates = [
+    'data/snapshot.json',
+    './data/snapshot.json',
+    '/data/snapshot.json'
+  ];
+
+  let lastError = null;
+
+  for (const url of candidates) {
+    try {
+      const res = await fetchWithTimeout(`${url}?ts=${Date.now()}`, 12000);
+      if (!res.ok) throw new Error(`HTTP ${res.status} a ${url}`);
+      const text = await res.text();
+      let json = null;
+      try {
+        json = JSON.parse(text);
+      } catch {
+        throw new Error(`Resposta no JSON a ${url}`);
+      }
+      if (!json || !Array.isArray(json.items)) {
+        throw new Error(`JSON invàlid a ${url}`);
+      }
+      return json;
+    } catch (err) {
+      lastError = err;
+    }
+  }
+
+  throw lastError || new Error('No s’ha pogut carregar snapshot.json');
+}
+
+async function load() {
+  showLoading();
 
   try {
-    const res = await fetch(`data/snapshot.json?ts=${Date.now()}`);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    state.data = await res.json();
-    state.rows = Array.isArray(state.data.items) ? state.data.items : [];
+    const data = await loadSnapshot();
+    state.data = data;
+    state.rows = Array.isArray(data.items) ? data.items : [];
     renderMeta();
     render();
+    hideLoading();
   } catch (err) {
-    $('#error').innerHTML = `<strong>No s'ha pogut carregar el snapshot.</strong><br>${esc(err.message)}`;
-    $('#error').classList.remove('hidden');
-  } finally {
-    $('#loading').classList.add('hidden');
+    showError(err?.message || String(err));
   }
 }
 
 function renderMeta() {
   const md = state.data?.meta || {};
   $('#statSync').textContent = md.generated_at ? shortDate(md.generated_at) : '—';
+
   const banner = $('#metaBanner');
   banner.innerHTML = `Snapshot ${esc(md.snapshot_scope || '—')} · ${md.items || 0} fitxes`;
   banner.classList.remove('hidden');
@@ -143,15 +207,18 @@ function render() {
     return;
   }
 
-  $('#grid').classList.remove('hidden');
   $('#empty').classList.add('hidden');
+  $('#grid').classList.remove('hidden');
 
   rows.forEach((r) => grid.appendChild(card(r)));
 }
 
 function addAction(actions, href, label) {
   if (!validHref(href)) return;
-  actions.push(`<a href="${esc(href)}" target="_blank" rel=" card(r) {
+  actions.push(`${esc(href)}${esc(label)}</a>`);
+}
+
+function card(r) {
   const el = document.createElement('article');
   el.className = 'card';
 
@@ -241,4 +308,13 @@ function addAction(actions, href, label) {
 });
 
 $('#reloadBtn').addEventListener('click', load);
+
+window.addEventListener('error', (e) => {
+  showError(`JS: ${e.message}`);
+});
+
+window.addEventListener('unhandledrejection', (e) => {
+  showError(`Promise: ${e.reason?.message || e.reason || 'error desconegut'}`);
+});
+
 load();
