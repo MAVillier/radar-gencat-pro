@@ -162,7 +162,7 @@ async function build(){
     fetchJson(URLS.pub, {'$limit':'4000','$order':':updated_at DESC','$where': pubWhere}),
     fetchJson(URLS.exe, {'$limit':'1500','$order':':updated_at DESC','$where': exeWhere}),
     fetchJson(URLS.plan, {'$limit':'3000','$order':':updated_at DESC','$where': planWhere}),
-    fetchJson(URLS.awd, {'$limit':'3000','$order':':updated_at DESC','$where': awdWhere})
+    fetchJson(URLS.awd, {'$limit':'3000','$order':':updated_at DESC'})
   ]);
 
   const pubs = pub.map(normalizePub).filter(x => !x.date || x.date >= last60);
