@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-14T17:55:24.658Z",
+    "generated_at": "2026-03-14T18:22:25.103Z",
     "snapshot_scope": "Generalitat de Catalunya + focus CTTI",
-    "items": 9,
+    "items": 36,
     "cpv_filter": [
       "30100000-0",
       "30200000-1",
@@ -22,6 +22,7 @@
       "51300000-5",
       "51600000-8",
       "64200000-8",
+      "72000000-5",
       "72100000-6",
       "72200000-7",
       "72300000-8",
@@ -38,6 +39,7 @@
     ],
     "sources": [
       "PSCP publicacions",
+      "PSCP publicacions CTTI reforç",
       "PSCP execució",
       "Programació 2026",
       "Adjudicacions històriques"
@@ -69,6 +71,44 @@
         "latest_short": "Licitació oberta",
         "recent_short": [
           "Licitació oberta"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contractació del subministrament d'un sistema d'integració audiovisual de quiròfans per l'Hospital Universitari Vall d'Hebron.",
+      "organ": "Institut Català de la Salut (ICS)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CS/AH01/1101463397/26/AMUP",
+      "cpv": "48814300-0",
+      "amount": 145681808,
+      "estimated_value": 145681808,
+      "procedure": "Licitació amb negociació",
+      "contract_type": "Subministraments",
+      "lots": null,
+      "date": "2026-03-13T13:30:00.000",
+      "close_date": null,
+      "status": "adjudicacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
         ],
         "url": null
       },
@@ -121,13 +161,545 @@
       "incumbent": null
     },
     {
+      "title": "Contracte relatiu al servei corresponent a les previsions de generació de plantes renovables.",
+      "organ": "Energies Renovables Públiques de Catalunya, SAU",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "ERPC-2026-10",
+      "cpv": "72314000-9",
+      "amount": 5897365,
+      "estimated_value": 5897365,
+      "procedure": "Obert simplificat abreujat",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-03-13T12:34:00.000",
+      "close_date": "2026-03-17T23:59:00.000",
+      "status": "licitacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Licitació oberta",
+        "recent_short": [
+          "Licitació oberta"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Subministrament i posada en servei d’equipament d’electrònica de xarxa de dades del servei de Telecomunicacions en l’àmbit del negoci de Turisme i Muntanya de Ferrocarrils de la Generalitat deCatalunya (TiM) (Ref:PO27/26)",
+      "organ": "Ferrocarrils de la Generalitat de Catalunya",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CONTR/2026/0000000021",
+      "cpv": "32500000-8",
+      "amount": 685504,
+      "estimated_value": 685504,
+      "procedure": "Obert",
+      "contract_type": "Subministraments",
+      "lots": null,
+      "date": "2026-03-13T12:24:00.000",
+      "close_date": "2026-04-20T12:00:00.000",
+      "status": "licitacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Licitació oberta",
+        "recent_short": [
+          "Licitació oberta"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Subministrament i instal·lació del mobiliari tècnic i equipament multimèdia del Centre de Gestió de la línia R-Aeroport (T2 Aeroport de Barcelona) per a FGC Mobilitat (Ref:PO30/26)",
+      "organ": "FGC MOBILITAT, SA",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CONTR/2026/0000000042",
+      "cpv": "30200000-1",
+      "amount": 140000,
+      "estimated_value": 140000,
+      "procedure": "Obert",
+      "contract_type": "Subministraments",
+      "lots": null,
+      "date": "2026-03-13T11:02:00.000",
+      "close_date": "2026-03-30T12:00:00.000",
+      "status": "licitacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Licitació oberta",
+        "recent_short": [
+          "Licitació oberta"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Subministrament de material de protecció d’equips i personal sanitari amb destí a l’Hospital Clínic de Barcelona",
+      "organ": "Consorci Hospital Clínic de Barcelona (HCB)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "2025-186",
+      "cpv": "35113400-3||33140000-3||33141420-0||18143000-3||33141000-0||30192124-6||33770000-8||39530000-6||18925200-1||39511100-8||33199000-1",
+      "amount": 102092499,
+      "estimated_value": 102092499,
+      "procedure": "Obert",
+      "contract_type": "Subministraments",
+      "lots": null,
+      "date": "2026-03-13T09:54:00.000",
+      "close_date": "2026-04-14T14:00:00.000",
+      "status": "licitacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Licitació oberta",
+        "recent_short": [
+          "Licitació oberta"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Adquisició dels servidors, cabines d’emmagatzematge i commutadors en producció, amb mesures de contractació pública social i ambiental",
+      "organ": "Consorci Museu Nacional d'Art de Catalunya",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "MNAC-2026-54",
+      "cpv": "48800000-6",
+      "amount": 46600,
+      "estimated_value": 46600,
+      "procedure": "Negociat sense publicitat",
+      "contract_type": "Subministraments",
+      "lots": null,
+      "date": "2026-03-12T17:00:00.000",
+      "close_date": null,
+      "status": "adjudicacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Renovar per 1 any, la subscripció de llicències de Centreon IT Edition per 2.500 hosts",
+      "organ": "Corporació Catalana de Mitjans Audiovisuals, SA (CCMA, SA)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "2603MS04",
+      "cpv": "48700000-5",
+      "amount": 18500,
+      "estimated_value": 18500,
+      "procedure": "Obert simplificat abreujat",
+      "contract_type": "Subministraments",
+      "lots": null,
+      "date": "2026-03-12T13:06:00.000",
+      "close_date": "2026-03-20T13:00:00.000",
+      "status": "licitacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Licitació oberta",
+        "recent_short": [
+          "Licitació oberta"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Transceivers òptics de diferents tipologies per equips de comunicació",
+      "organ": "Corporació Catalana de Mitjans Audiovisuals, SA (CCMA, SA)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "2602OB07",
+      "cpv": "32422000-7",
+      "amount": 100000,
+      "estimated_value": 100000,
+      "procedure": "Obert",
+      "contract_type": "Subministraments",
+      "lots": null,
+      "date": "2026-03-12T12:44:00.000",
+      "close_date": "2026-03-19T23:59:00.000",
+      "status": "licitacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Licitació oberta",
+        "recent_short": [
+          "Licitació oberta"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Serveis d’estudi de la metilació a tot el genoma, pels projectes de recerca PID2023-151492OB-I00 “impacto biologico y clínico de la memoria epigenética y la dinámica evolutiva en los linfomas de las celulas del manto” i 101248668 “Translating Epigenetic Memory into Personalized Prognostic Solutions for Chronic Lymphocytic Leukemia”, en funció de les necessitats de la Fundació de Recerca Clínic Barcelona-Institut d’Investigacions Biomèdiques August Pi i Sunyer (en endavant, FRCB-IDIBAPS), segons característiques tècniques i condicions definides en el Plec de Prescripcions Tècniques (PPT).",
+      "organ": "Fundació de Recerca Clínic Barcelona - Institut d'Investigacions Biomèdiques August Pi i Sunyer",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "F25.058CN",
+      "cpv": "71900000-7||73100000-3",
+      "amount": 192000,
+      "estimated_value": 192000,
+      "procedure": "Obert",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-03-11T17:38:00.000",
+      "close_date": "2026-02-23T14:00:00.000",
+      "status": "avaluacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "(CSAPG OB 2026/02) Servei d'anàlisi de l'experiència del pacient a l'Hospital Comarcal de l'Alt Penedès i Garraf, amb un enfocament global de cartera de serveis.",
+      "organ": "Consorci Sanitari de l'Alt Penedès i Garraf",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSAPG-2026-16",
+      "cpv": "73200000-4",
+      "amount": 60000,
+      "estimated_value": 60000,
+      "procedure": "Obert simplificat",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-03-09T12:36:00.000",
+      "close_date": "2026-03-09T14:00:00.000",
+      "status": "avaluacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Aadquisició, implementació i posada en marxa d’una multiplataforma de realitat mixta amb Intel·ligència Artificial per al centre Illa dels Banyols",
+      "organ": "Departament d'Educació i Formació Professional",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "08031836-2026-12",
+      "cpv": "72212500-4||30210000-4",
+      "amount": 184000,
+      "estimated_value": 184000,
+      "procedure": "Obert",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-03-04T12:02:00.000",
+      "close_date": "2026-03-19T13:00:00.000",
+      "status": "licitacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Subscripció durant dotze mesos a les bases de dades especialitzades de Gartner for Technical Professionals Advisor Team, concretament pel serveis especialitzats en noves tecnologies i arquitectures emergents que es concreten en els següents serveis, d’accés il·limitat per a 5 usuaris.",
+      "organ": "Centre de Telecomunicacions i Tecnologies de la Informació de la Generalitat de Catalunya (CTTI)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CTTI-2026-39",
+      "cpv": "72320000-4",
+      "amount": 88200,
+      "estimated_value": 88200,
+      "procedure": "Adjudicacions directes no menors",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-02-24T10:52:00.000",
+      "close_date": null,
+      "status": "adjudicacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "subscripció 2025-2026 a les bases de dades especialitzades de Gartner, concretament pel serveis d'assessorament “Executive Programs Leadership Team Plus”, nivells “Leader” i “Delegate Team Member”.",
+      "organ": "Centre de Telecomunicacions i Tecnologies de la Informació de la Generalitat de Catalunya (CTTI)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CTTI-2025-184",
+      "cpv": "72320000-4",
+      "amount": 22098334,
+      "estimated_value": 22098334,
+      "procedure": "Adjudicacions directes no menors",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-02-24T10:30:00.000",
+      "close_date": null,
+      "status": "adjudicacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Subscripció durant dotze mesos a les bases de dades especialitzades de Gartner for Technical Professionals Advisor Team, concretament pel serveis especialitzats en noves tecnologies i arquitectures emergents que es concreten en els següents serveis, d'accés il·limitat per a 5 usuaris.",
+      "organ": "Centre de Telecomunicacions i Tecnologies de la Informació de la Generalitat de Catalunya (CTTI)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CTTI-2025-42",
+      "cpv": "72320000-4",
+      "amount": 84700,
+      "estimated_value": 84700,
+      "procedure": "Adjudicacions directes no menors",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-02-24T09:24:00.000",
+      "close_date": null,
+      "status": "adjudicacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Subscripció durant dotze mesos a les bases de dades especialitzades de Gartner for Technical Professionals Advisor Team, concretament pel serveis especialitzats en noves tecnologies i arquitectures emergents que es concreten en els següents serveis, d'accés il·limitat per a 5 usuaris.",
+      "organ": "Centre de Telecomunicacions i Tecnologies de la Informació de la Generalitat de Catalunya (CTTI)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CTTI-2024-65",
+      "cpv": "72320000-4",
+      "amount": 77400,
+      "estimated_value": 77400,
+      "procedure": "Adjudicacions directes no menors",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-02-24T09:08:00.000",
+      "close_date": null,
+      "status": "adjudicacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Servei gestió integral presència digital i suport servidors",
       "organ": "Consorci Centre de Ciència i Tecnologia Forestal de Catalunya",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "CTFC-2026-7",
       "cpv": "72400000-4||72500000-0||72600000-6",
-      "amount": 1277166,
-      "estimated_value": 1277166,
+      "amount": 448734,
+      "estimated_value": 448734,
       "procedure": "Obert simplificat",
       "contract_type": "Serveis",
       "lots": null,
@@ -141,10 +713,162 @@
         "licitacio"
       ],
       "alerts": {
+        "count": 2,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Serveis relatiu a la implantació i al manteniment del Portal del Professional, basat en tecnologia SharePoint, del Laboratori de Referència de Catalunya, S.A. (LRC) i d’Imatge Mèdica Intercentres, S.L. (IMI)",
+      "organ": "Laboratori de Referència de Catalunya, SA",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "LRC 2/2026-PO",
+      "cpv": "72262000-9",
+      "amount": 119760,
+      "estimated_value": 119760,
+      "procedure": "Obert",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-02-20T13:30:00.000",
+      "close_date": "2026-03-09T14:00:00.000",
+      "status": "avaluacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Servei de suport i manteniment de llicències del sistema Citrix a l'Hospital Universitari Vall d'Hebron",
+      "organ": "Institut Català de la Salut (ICS)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSE/AH01/1101462937/26/PSS",
+      "cpv": "50312310-1",
+      "amount": 46500,
+      "estimated_value": 46500,
+      "procedure": "Obert simplificat abreujat",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-02-20T09:20:00.000",
+      "close_date": "2026-03-06T14:00:00.000",
+      "status": "avaluacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Realització d’un estudi comparatiu per avaluar l’eficàcia terapèutica de la nostra molècula biològica Heptammune en un model de malaltia inflamatòria intestinal (colitis ulcerosa induïda per sulfat de dextrà (DSS) en ratolins humanitzats.",
+      "organ": "Institut d'Investigació Biomèdica de Bellvitge (IDIBELL)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "PCP-2615",
+      "cpv": "73100000-3",
+      "amount": 161735,
+      "estimated_value": 161735,
+      "procedure": "Negociat sense publicitat",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-02-19T10:30:00.000",
+      "close_date": "2026-03-06T13:00:00.000",
+      "status": "licitacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
         "count": 1,
         "latest_short": "Actualització expedient",
         "recent_short": [
           "Actualització expedient"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "L’objecte del contracte és la realització d’una prova de concepte (PoC) consistent en el desplegament, configuració i posada en funcionament inicial d’una plataforma corporativa de xatbots i agents conversacional, basada en intel·ligència artificial generativa, en un entorn tècnic de prova dins la infraestructura cloud corporativa de l’AOC (AWS). Es pot veure la descripció complerta de l'objecte contractual consultant la memòria justificativa adjunta en aquesta publicació.",
+      "organ": "Consorci Administració Oberta de Catalunya",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "AOC-2026-39",
+      "cpv": "72212218-0",
+      "amount": 14900,
+      "estimated_value": 14900,
+      "procedure": "Contracte menor",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-02-18T09:14:00.000",
+      "close_date": "2026-02-25T14:00:00.000",
+      "status": "avaluacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
         ],
         "url": null
       },
@@ -273,6 +997,310 @@
       "incumbent": null
     },
     {
+      "title": "L’objecte del contracte és el servei de manteniment preventiu i correctiu per al microscopi confocal Zeiss Elyria PS.1/LSM 880/Axio Observer de la plataforma de microscòpia digital avançada, de la Fundació Institut de Recerca Biomèdica (IRB Barcelona), d’acord amb les condicions i característiques indicades a l'expedient.",
+      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "NSPE-0425-165",
+      "cpv": "50000000-5||50324200-4",
+      "amount": 8682975,
+      "estimated_value": 8682975,
+      "procedure": "Negociat sense publicitat",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-02-11T10:14:00.000",
+      "close_date": "2026-02-13T14:00:00.000",
+      "status": "formalitzacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "formalitzacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Contracte formalitzat",
+        "recent_short": [
+          "Contracte formalitzat"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Disseny, construcció, implantació i manteniment del nou sistema d'informació de gestió de les proves de català del Departament de Política Lingüística, Categoria C, Franja 2, del CTTI-2025-96 SDA de proveïdors per a la contractació dels serveis de definició, gestió, construcció, manteniment i operació, i el suport a les solucions TIC.",
+      "organ": "Centre de Telecomunicacions i Tecnologies de la Informació de la Generalitat de Catalunya (CTTI)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CTTI-2026-51",
+      "cpv": "72267100-0",
+      "amount": 126763325,
+      "estimated_value": 126763325,
+      "procedure": null,
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-02-05T11:14:00.000",
+      "close_date": "2026-02-24T12:00:00.000",
+      "status": "avaluacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Servei de suport i manteniment llicències Onbase",
+      "organ": "Consorci Corporació Sanitària Parc Taulí de Sabadell",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "26SER0924P",
+      "cpv": "72222300-0",
+      "amount": 12930689,
+      "estimated_value": 12930689,
+      "procedure": "Obert simplificat",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-02-05T08:02:00.000",
+      "close_date": "2026-02-20T13:00:00.000",
+      "status": "avaluacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contractació dels serveis de suport per al desplegament, la configuració, l'operació i monitorització d'un entorn de proves de CiberSOC",
+      "organ": "Consorci Administració Oberta de Catalunya",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "AOC-2026-31",
+      "cpv": "72500000-0",
+      "amount": 14900,
+      "estimated_value": 14900,
+      "procedure": "Contracte menor",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-02-04T11:04:00.000",
+      "close_date": "2026-02-18T11:00:00.000",
+      "status": "avaluacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Subministrament de llicencies de Bitbucket, Jira Software, Confluence, Access i els seus Add-Ons, en la seva versió Cloud",
+      "organ": "Corporació Catalana de Mitjans Audiovisuals, SA (CCMA, SA)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "2601OB05",
+      "cpv": "48700000-5",
+      "amount": 180000,
+      "estimated_value": 180000,
+      "procedure": "Obert",
+      "contract_type": "Subministraments",
+      "lots": null,
+      "date": "2026-02-03T09:48:00.000",
+      "close_date": "2026-02-16T13:00:00.000",
+      "status": "adjudicacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Subministrament d'una eina d'anàlisi en temps real per a la gestió de riscos químics a Catalunya, per la provisió del Centre de Coordinació Operativa de Catalunya (CECAT), de la Direcció General de Protecció Civil (DGPC), d'acord amb el Plec de prescripcions tècniques, per a l'any 2026.",
+      "organ": "Departament d'Interior i Seguretat Pública",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "IT-2026-45",
+      "cpv": "48461000-7",
+      "amount": 50250,
+      "estimated_value": 50250,
+      "procedure": "Obert simplificat",
+      "contract_type": "Subministraments",
+      "lots": null,
+      "date": "2026-01-29T11:32:00.000",
+      "close_date": "2026-01-07T14:00:00.000",
+      "status": "formalitzacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "formalitzacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Contracte formalitzat",
+        "recent_short": [
+          "Contracte formalitzat"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contracte de serveis per la migració del sistema de gestió SAP ECC 6.0 A S/4HANA CLOUD PRIVAT (RISE WITH SAP) per a Infraestructures de la Generalitat de Catalunya, SAU. CLAU: INF-2505",
+      "organ": "Infraestructures de la Generalitat de Catalunya, SAU",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "INF-2505",
+      "cpv": "72263000-6||72267000-4",
+      "amount": 166699748,
+      "estimated_value": 166699748,
+      "procedure": "Obert",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-01-27T08:14:00.000",
+      "close_date": "2026-02-09T13:00:00.000",
+      "status": "avaluacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Servei de sostenibilitat en la millora del procés d’hospitalització al Consorci Sanitari de Terrassa.",
+      "organ": "Consorci Sanitari de Terrassa",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CST-2026-2 ONH-SE",
+      "cpv": "73220000-0",
+      "amount": 87000,
+      "estimated_value": 87000,
+      "procedure": "Obert",
+      "contract_type": "Serveis",
+      "lots": null,
+      "date": "2026-01-22T10:04:00.000",
+      "close_date": "2026-02-09T14:00:00.000",
+      "status": "avaluacio",
+      "url": null,
+      "follow_url": null,
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": null
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": null
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "L’objecte és la prestació del servei d’anàlisi de dades mitjançant l’algoritme iBox®, integrat a la plataforma Predigraft®, amb llicència exclusiva de Predict4Health®, sobre els pacients inclosos en un assaig clínic en trasplantament renal. La prestació consisteix principalment en el càlcul d’aquest algoritme com a criteri substitutiu per projectar la supervivència de l’empelt a 5 anys a partir de dades a 12 mesos post-trasplantament, per a 250 pacients de l’assaig.",
       "organ": "Fundació Institut Hospital del Mar d'Investigacions Mèdiques",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -354,8 +1382,8 @@
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "LSL-2026-51",
       "cpv": "48218000-9",
-      "amount": 5741928,
-      "estimated_value": 5741928,
+      "amount": 13077038,
+      "estimated_value": 13077038,
       "procedure": "Obert",
       "contract_type": "Subministraments",
       "lots": null,
@@ -369,7 +1397,7 @@
         "formalitzacio"
       ],
       "alerts": {
-        "count": 2,
+        "count": 5,
         "latest_short": "Contracte formalitzat",
         "recent_short": [
           "Contracte formalitzat"
