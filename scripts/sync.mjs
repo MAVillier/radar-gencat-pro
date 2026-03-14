@@ -156,7 +156,7 @@ async function build(){
   const pubWhere = `(lower(nom_ambit) like '%generalitat de catalunya%' OR lower(nom_organ) like '%centre de telecomunicacions i tecnologies de la informaci%')`;
   const exeWhere = pubWhere;
   const planWhere = `(any = 2026 OR any = '2026') AND (lower(nom_departament_ens) like '%generalitat%' OR lower(orga_de_contractaci) like '%ctti%' OR lower(organ_de_contractaci) like '%ctti%')`;
-  const awdWhere = `lower(nom_departament_ens) like '%generalitat%' OR lower(organ_de_contractaci) like '%centre de telecomunicacions i tecnologies de la informaci%'`;
+  const awdWhere = null;
 
   const [pub, exe, plan, awd] = await Promise.all([
     fetchJson(URLS.pub, {'$limit':'4000','$order':':updated_at DESC','$where': pubWhere}),
