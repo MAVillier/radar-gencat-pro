@@ -31,6 +31,7 @@ const ALLOWED_CPV_CODES = [
   '51300000-5',
   '51600000-8',
   '64200000-8',
+  '72000000-5',
   '72100000-6',
   '72200000-7',
   '72300000-8',
@@ -118,8 +119,8 @@ function cleanUrl(v) {
 
 function extractPublicationIdFromText(v) {
   const s = String(v || '');
-  const m = s.match(/detall-publicacio\/(\d+)/i);
-  if (m) return m[1];
+  const matchFull = s.match(/detall-publicacio\/(?:[0-9a-f-]+\/)?(\d+)/i);
+  if (matchFull) return matchFull[1];
   if (/^\d{6,}$/.test(s.trim())) return s.trim();
   return null;
 }
@@ -127,31 +128,6 @@ function extractPublicationIdFromText(v) {
 function buildDetailUrl(publicationId) {
   if (!publicationId) return null;
   return `https://contractaciopublica.cat/ca/detall-publicacio/${publicationId}`;
-}
-
-function inferPublicationId(obj) {
-  const direct = get(obj, [
-    'id_publicacio',
-    'id_de_publicacio',
-    'publicacio_id',
-    'publicaci_id',
-    'identificador_publicacio',
-    'identificador_de_publicacio',
-    'id_anunci',
-    'identificador_anunci'
-  ]);
-  const fromDirect = extractPublicationIdFromText(direct);
-  if (fromDirect) return fromDirect;
-
-  for (const [k, v] of Object.entries(obj || {})) {
-    if (/(id.*publicaci|publicaci.*id|id.*anunci|anunci.*id|detall.*publicaci|publicacio)/i.test(k)) {
-      const id = extractPublicationIdFromText(v);
-      if (id) return id;
-    }
-  }
-
-  const url = inferRawUrl(obj);
-  return extractPublicationIdFromText(url);
 }
 
 function inferRawUrl(obj) {
@@ -171,10 +147,35 @@ function inferRawUrl(obj) {
   );
 }
 
+function inferPublicationId(obj) {
+  const direct = get(obj, [
+    'id_publicacio',
+    'id_de_publicacio',
+    'publicacio_id',
+    'publicaci_id',
+    'identificador_publicacio',
+    'identificador_de_publicacio',
+    'id_anunci',
+    'identificador_anunci'
+  ]);
+
+  const directId = extractPublicationIdFromText(direct);
+  if (directId) return directId;
+
+  for (const [k, v] of Object.entries(obj || {})) {
+    if (/(id.*publicaci|publicaci.*id|id.*anunci|anunci.*id|detall.*publicaci|publicacio)/i.test(k)) {
+      const id = extractPublicationIdFromText(v);
+      if (id) return id;
+    }
+  }
+
+  const rawUrl = inferRawUrl(obj);
+  return extractPublicationIdFromText(rawUrl);
+}
+
 function inferBestUrl(obj) {
-  const pubId = inferPublicationId(obj);
-  const detailUrl = buildDetailUrl(pubId);
-  if (detailUrl) return detailUrl;
+  const publicationId = inferPublicationId(obj);
+  if (publicationId) return buildDetailUrl(publicationId);
 
   const rawUrl = inferRawUrl(obj);
   if (rawUrl) return rawUrl;
@@ -371,11 +372,13 @@ function inferAlertShort(obj) {
 function extractCpvList(raw) {
   const txt = String(raw || '');
   const matches = txt.match(/\d{8}-\d|\d{8}/g) || [];
-  return matches.map((m) => {
-    const digits = m.replace(/[^0-9]/g, '');
-    if (digits.length < 8) return null;
-    return digits.slice(0, 8);
-  }).filter(Boolean);
+  return matches
+    .map((m) => {
+      const digits = m.replace(/[^0-9]/g, '');
+      if (digits.length < 8) return null;
+      return digits.slice(0, 8);
+    })
+    .filter(Boolean);
 }
 
 function cpvAllowed(raw) {
@@ -424,7 +427,6 @@ function tokens(t) {
             'subministrament',
             'suport',
             'oficina',
-            'tecnica',
             'tecnica'
           ].includes(x)
       )
@@ -470,12 +472,7 @@ function priorityLabel(item) {
 }
 
 async function fetchJsonWithRetry(url, params = {}, options = {}) {
-  const {
-    retries = 5,
-    timeoutMs = 30000,
-    baseDelayMs = 1500
-  } = options;
-
+  const { retries = 5, timeoutMs = 30000, baseDelayMs = 1500 } = options;
   const qs = new URLSearchParams(params);
   const fullUrl = `${url}?${qs.toString()}`;
 
@@ -626,30 +623,45 @@ function normalizeAwd(obj) {
 }
 
 function keyFor(x) {
-  return `${normalizeText(x.organ)}|${normalizeText(x.expedient || x.title).slice(0, 160)}`;
+  return `${normalizeText(x.organ)}|${normalizeText(x.expedient || x.title).slice(0, 180)}`;
 }
 
 async function buildSnapshot() {
-  const [pubRaw, exeRaw, planRaw, awdRaw] = await Promise.all([
-    safeFetch('pub', URLS.pub, {
-      $limit: '2500',
-      $order: ':updated_at DESC'
-    }),
-    safeFetch('exe', URLS.exe, {
-      $limit: '1200',
-      $order: ':updated_at DESC'
-    }),
-    safeFetch('plan', URLS.plan, {
-      $limit: '2500',
-      $order: ':updated_at DESC'
-    }),
-    safeFetch('awd', URLS.awd, {
-      $limit: '2000',
-      $order: ':updated_at DESC'
-    })
+  const pubParams = {
+    $limit: '5000',
+    $order: ':updated_at DESC'
+  };
+
+  const pubCttiParams = {
+    $limit: '2000',
+    $order: ':updated_at DESC',
+    $where: "lower(nom_organ) like '%centre de telecomunicacions i tecnologies de la informaci%'"
+  };
+
+  const exeParams = {
+    $limit: '2500',
+    $order: ':updated_at DESC'
+  };
+
+  const planParams = {
+    $limit: '3000',
+    $order: ':updated_at DESC'
+  };
+
+  const awdParams = {
+    $limit: '3000',
+    $order: ':updated_at DESC'
+  };
+
+  const [pubRaw, pubCttiRaw, exeRaw, planRaw, awdRaw] = await Promise.all([
+    safeFetch('pub', URLS.pub, pubParams),
+    safeFetch('pubCtti', URLS.pub, pubCttiParams),
+    safeFetch('exe', URLS.exe, exeParams),
+    safeFetch('plan', URLS.plan, planParams),
+    safeFetch('awd', URLS.awd, awdParams)
   ]);
 
-  const pubs = pubRaw
+  const pubs = [...pubRaw, ...pubCttiRaw]
     .map(normalizePub)
     .filter((x) => !x.date || x.date >= LAST_60_DAYS)
     .filter((x) => isTargetRecord(x.organ, x.scope))
@@ -706,7 +718,9 @@ async function buildSnapshot() {
           p,
           score:
             (normalizeText(p.organ) === normalizeText(head.organ) ? 0.25 : 0) +
-            (head.cpv && p.cpv && extractCpvList(head.cpv)[0]?.slice(0, 3) === extractCpvList(p.cpv)[0]?.slice(0, 3)
+            (head.cpv &&
+            p.cpv &&
+            extractCpvList(head.cpv)[0]?.slice(0, 3) === extractCpvList(p.cpv)[0]?.slice(0, 3)
               ? 0.2
               : 0) +
             Math.min(0.7, similarity(head.title, p.title))
@@ -720,7 +734,9 @@ async function buildSnapshot() {
           a,
           score:
             (normalizeText(a.organ) === normalizeText(head.organ) ? 0.2 : 0) +
-            (head.cpv && a.cpv && extractCpvList(head.cpv)[0]?.slice(0, 3) === extractCpvList(a.cpv)[0]?.slice(0, 3)
+            (head.cpv &&
+            a.cpv &&
+            extractCpvList(head.cpv)[0]?.slice(0, 3) === extractCpvList(a.cpv)[0]?.slice(0, 3)
               ? 0.25
               : 0) +
             Math.min(0.65, similarity(head.title, a.title))
@@ -792,6 +808,7 @@ async function buildSnapshot() {
       cpv_filter: ALLOWED_CPV_CODES,
       sources: [
         'PSCP publicacions',
+        'PSCP publicacions CTTI reforç',
         'PSCP execució',
         'Programació 2026',
         'Adjudicacions històriques'
