@@ -12,6 +12,42 @@ const URLS = {
   awd: 'https://analisi.transparenciacatalunya.cat/resource/nn7v-4yxe.json'
 };
 
+const ALLOWED_CPV_CODES = [
+  '30100000-0',
+  '30200000-1',
+  '32200000-5',
+  '32400000-7',
+  '32500000-8',
+  '48100000-9',
+  '48200000-0',
+  '48300000-1',
+  '48400000-2',
+  '48500000-3',
+  '48600000-4',
+  '48700000-5',
+  '48800000-6',
+  '48900000-7',
+  '50300000-8',
+  '51300000-5',
+  '51600000-8',
+  '64200000-8',
+  '72100000-6',
+  '72200000-7',
+  '72300000-8',
+  '72400000-4',
+  '72500000-0',
+  '72600000-6',
+  '72700000-7',
+  '72800000-8',
+  '72900000-9',
+  '73100000-3',
+  '73200000-4',
+  '73300000-5',
+  '73400000-6'
+];
+
+const ALLOWED_CPV_PREFIXES = [...new Set(ALLOWED_CPV_CODES.map((x) => x.replace(/[^0-9]/g, '').slice(0, 3)))];
+
 const now = new Date();
 const ISO_NOW = now.toISOString();
 const LAST_60_DAYS = new Date(now.getTime() - 60 * 24 * 60 * 60 * 1000).toISOString();
@@ -26,6 +62,12 @@ function normalizeText(v = '') {
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '')
     .toLowerCase();
+}
+
+function looksLikeDate(v) {
+  if (!v) return false;
+  const d = new Date(v);
+  return !Number.isNaN(d.getTime());
 }
 
 function get(obj, keys) {
@@ -46,6 +88,15 @@ function findAny(obj, regex) {
   return null;
 }
 
+function findDateAny(obj, regex) {
+  for (const [key, value] of Object.entries(obj || {})) {
+    if (regex.test(key) && looksLikeDate(value)) {
+      return value;
+    }
+  }
+  return null;
+}
+
 function toNumber(v) {
   if (v === undefined || v === null || v === '') return null;
   const n = Number(
@@ -57,9 +108,83 @@ function toNumber(v) {
   return Number.isFinite(n) ? n : null;
 }
 
-function inferDate(o) {
+function cleanUrl(v) {
+  if (typeof v !== 'string') return null;
+  const s = v.trim();
+  if (!s) return null;
+  if (s.startsWith('http://') || s.startsWith('https://')) return s;
+  return null;
+}
+
+function extractPublicationIdFromText(v) {
+  const s = String(v || '');
+  const m = s.match(/detall-publicacio\/(\d+)/i);
+  if (m) return m[1];
+  if (/^\d{6,}$/.test(s.trim())) return s.trim();
+  return null;
+}
+
+function buildDetailUrl(publicationId) {
+  if (!publicationId) return null;
+  return `https://contractaciopublica.cat/ca/detall-publicacio/${publicationId}`;
+}
+
+function inferPublicationId(obj) {
+  const direct = get(obj, [
+    'id_publicacio',
+    'id_de_publicacio',
+    'publicacio_id',
+    'publicaci_id',
+    'identificador_publicacio',
+    'identificador_de_publicacio',
+    'id_anunci',
+    'identificador_anunci'
+  ]);
+  const fromDirect = extractPublicationIdFromText(direct);
+  if (fromDirect) return fromDirect;
+
+  for (const [k, v] of Object.entries(obj || {})) {
+    if (/(id.*publicaci|publicaci.*id|id.*anunci|anunci.*id|detall.*publicaci|publicacio)/i.test(k)) {
+      const id = extractPublicationIdFromText(v);
+      if (id) return id;
+    }
+  }
+
+  const url = inferRawUrl(obj);
+  return extractPublicationIdFromText(url);
+}
+
+function inferRawUrl(obj) {
   return (
-    get(o, [
+    cleanUrl(
+      get(obj, [
+        'url_expedient',
+        'url_publicacio',
+        'url_publicaci',
+        'enllac_expedient',
+        'enllac',
+        'link'
+      ])
+    ) ||
+    cleanUrl(findAny(obj, /(url|enllac|link)/i)) ||
+    null
+  );
+}
+
+function inferBestUrl(obj) {
+  const pubId = inferPublicationId(obj);
+  const detailUrl = buildDetailUrl(pubId);
+  if (detailUrl) return detailUrl;
+
+  const rawUrl = inferRawUrl(obj);
+  if (rawUrl) return rawUrl;
+
+  return null;
+}
+
+function inferDate(obj) {
+  return (
+    get(obj, [
       'data_publicacio',
       'data_publicacio_anunci',
       'data_publicaci',
@@ -69,29 +194,31 @@ function inferDate(o) {
       'data_inici',
       'data_prevista'
     ]) ||
-    findAny(o, /^data_/i) ||
+    findDateAny(obj, /^data_/i) ||
     null
   );
 }
 
-function inferUrl(o) {
+function inferCloseDate(obj) {
   return (
-    get(o, [
-      'url_expedient',
-      'url_publicacio',
-      'url_publicaci',
-      'enllac_expedient',
-      'enllac',
-      'link'
+    get(obj, [
+      'data_termini_presentacio_ofertes',
+      'data_termini_presentacio',
+      'data_limit_presentacio_ofertes',
+      'data_limit_presentacio',
+      'data_tancament',
+      'data_fi_presentacio',
+      'termini_presentacio_ofertes',
+      'termini_presentacio'
     ]) ||
-    findAny(o, /(url|enllac|link)/i) ||
+    findDateAny(obj, /(termini|tancament|limit|limi|presentacio|presentaci|recepcio|recepci)/i) ||
     null
   );
 }
 
-function inferTitle(o) {
+function inferTitle(obj) {
   return (
-    get(o, [
+    get(obj, [
       'descripcio_contracte',
       'descripci_del_contracte',
       'descripcio_del_contracte',
@@ -103,9 +230,9 @@ function inferTitle(o) {
   );
 }
 
-function inferOrgan(o) {
+function inferOrgan(obj) {
   return (
-    get(o, [
+    get(obj, [
       'nom_organ',
       'organ_de_contractaci',
       'orga_de_contractaci',
@@ -114,9 +241,9 @@ function inferOrgan(o) {
   );
 }
 
-function inferScope(o) {
+function inferScope(obj) {
   return (
-    get(o, [
+    get(obj, [
       'nom_ambit',
       'ambit',
       'departament',
@@ -128,17 +255,17 @@ function inferScope(o) {
   );
 }
 
-function inferExpedient(o) {
-  return get(o, ['codi_expedient', 'codi_d_expedient', 'expedient']) || '';
+function inferExpedient(obj) {
+  return get(obj, ['codi_expedient', 'codi_d_expedient', 'expedient']) || '';
 }
 
-function inferCPV(o) {
-  return get(o, ['codi_cpv', 'cpv', 'cpv_principal']) || '';
+function inferCPV(obj) {
+  return get(obj, ['codi_cpv', 'cpv', 'cpv_principal']) || '';
 }
 
-function inferAmount(o) {
+function inferAmount(obj) {
   return (
-    get(o, [
+    get(obj, [
       'import_licitacio',
       'import_de_licitacio',
       'import_licitat',
@@ -153,9 +280,56 @@ function inferAmount(o) {
   );
 }
 
-function inferStatus(o) {
+function inferEstimatedValue(obj) {
+  return (
+    get(obj, [
+      'valor_estimat_contracte',
+      'valor_estimat',
+      'vec',
+      'import_previst_sense_iva',
+      'import_previst'
+    ]) || null
+  );
+}
+
+function inferProcedure(obj) {
+  return (
+    get(obj, [
+      'procediment_d_adjudicacio',
+      'procediment_adjudicacio',
+      'procediment',
+      'tipus_procediment'
+    ]) || null
+  );
+}
+
+function inferContractType(obj) {
+  return (
+    get(obj, [
+      'tipus_de_contracte',
+      'tipus_contracte',
+      'contract_type',
+      'tipus'
+    ]) || null
+  );
+}
+
+function inferLots(obj) {
+  return (
+    toNumber(
+      get(obj, [
+        'nombre_lots',
+        'nombre_de_lots',
+        'num_lots',
+        'lots'
+      ])
+    ) || null
+  );
+}
+
+function inferStatus(obj) {
   const txt = normalizeText(
-    Object.entries(o || {})
+    Object.entries(obj || {})
       .filter(([k]) => /(tipus|fase|publicaci|estat|anunci)/i.test(k))
       .map(([, v]) => String(v))
       .join(' | ')
@@ -172,9 +346,9 @@ function inferStatus(o) {
   return 'licitacio';
 }
 
-function inferAlertShort(o) {
+function inferAlertShort(obj) {
   const txt = normalizeText(
-    Object.entries(o || {})
+    Object.entries(obj || {})
       .filter(([k]) => /(tipus|fase|publicaci|estat|anunci|titol|descripcio)/i.test(k))
       .map(([, v]) => String(v))
       .join(' | ')
@@ -192,6 +366,22 @@ function inferAlertShort(o) {
   if (txt.includes('licit')) return 'Licitació oberta';
 
   return 'Actualització expedient';
+}
+
+function extractCpvList(raw) {
+  const txt = String(raw || '');
+  const matches = txt.match(/\d{8}-\d|\d{8}/g) || [];
+  return matches.map((m) => {
+    const digits = m.replace(/[^0-9]/g, '');
+    if (digits.length < 8) return null;
+    return digits.slice(0, 8);
+  }).filter(Boolean);
+}
+
+function cpvAllowed(raw) {
+  const list = extractCpvList(raw);
+  if (!list.length) return false;
+  return list.some((cpv) => ALLOWED_CPV_PREFIXES.includes(cpv.slice(0, 3)));
 }
 
 function isTargetRecord(organ, scope) {
@@ -335,7 +525,7 @@ async function fetchJsonWithRetry(url, params = {}, options = {}) {
   throw lastError;
 }
 
-async function safeFetch(name, url, params) {
+async function safeFetch(name, url, params = {}) {
   try {
     return await fetchJsonWithRetry(url, params);
   } catch (err) {
@@ -344,270 +534,34 @@ async function safeFetch(name, url, params) {
   }
 }
 
-function normalizePub(o) {
+function normalizePub(obj) {
   return {
     source: 'pub',
-    status: inferStatus(o),
-    title: inferTitle(o),
-    organ: inferOrgan(o),
-    scope: inferScope(o),
-    expedient: inferExpedient(o),
-    cpv: inferCPV(o),
-    amount: toNumber(inferAmount(o)),
-    date: inferDate(o),
-    url: inferUrl(o),
-    short: inferAlertShort(o),
-    raw: o
+    status: inferStatus(obj),
+    title: inferTitle(obj),
+    organ: inferOrgan(obj),
+    scope: inferScope(obj),
+    expedient: inferExpedient(obj),
+    cpv: inferCPV(obj),
+    amount: toNumber(inferAmount(obj)),
+    estimated_value: toNumber(inferEstimatedValue(obj)),
+    procedure: inferProcedure(obj),
+    contract_type: inferContractType(obj),
+    lots: inferLots(obj),
+    date: inferDate(obj),
+    close_date: inferCloseDate(obj),
+    publication_id: inferPublicationId(obj),
+    url: inferBestUrl(obj),
+    short: inferAlertShort(obj),
+    raw: obj
   };
 }
 
-function normalizeExe(o) {
+function normalizeExe(obj) {
   return {
     source: 'exe',
     status: 'execucio',
-    title: inferTitle(o),
-    organ: inferOrgan(o),
-    scope: inferScope(o),
-    expedient: inferExpedient(o),
-    cpv: inferCPV(o),
-    amount: toNumber(inferAmount(o)),
-    date: inferDate(o),
-    url: inferUrl(o),
-    short: 'En execució',
-    raw: o
-  };
-}
-
-function normalizePlan(o) {
-  return {
-    source: 'plan',
-    status: 'programada',
-    title: inferTitle(o),
-    organ: inferOrgan(o),
-    scope: inferScope(o),
-    expedient: inferExpedient(o),
-    cpv: inferCPV(o),
-    amount: toNumber(inferAmount(o)),
-    date: inferDate(o) || '2026-01-01T00:00:00Z',
-    url: inferUrl(o),
-    short: 'Programació 2026',
-    raw: o
-  };
-}
-
-function normalizeAwd(o) {
-  const licitat = toNumber(get(o, ['import_licitat', 'import_licitacio']));
-  const adjudicat = toNumber(get(o, ['import_adjudicat_sense_iva', 'import_adjudicat']));
-
-  return {
-    source: 'awd',
-    title: inferTitle(o),
-    organ: inferOrgan(o),
-    scope: inferScope(o),
-    expedient: inferExpedient(o),
-    cpv: inferCPV(o),
-    licitat,
-    adjudicat,
-    provider: get(o, ['empresa_adjudicat_ria', 'empresa_adjudicataria', 'adjudicatari']) || '',
-    date: inferDate(o),
-    url: inferUrl(o),
-    discount_pct:
-      licitat && adjudicat && licitat > 0 ? ((licitat - adjudicat) / licitat) * 100 : null,
-    raw: o
-  };
-}
-
-function keyFor(x) {
-  return `${normalizeText(x.organ)}|${normalizeText(x.expedient || x.title).slice(0, 160)}`;
-}
-
-async function buildSnapshot() {
-  const [pubRaw, exeRaw, planRaw, awdRaw] = await Promise.all([
-    safeFetch('pub', URLS.pub, {
-      $limit: '1800',
-      $order: ':updated_at DESC'
-    }),
-    safeFetch('exe', URLS.exe, {
-      $limit: '800',
-      $order: ':updated_at DESC'
-    }),
-    safeFetch('plan', URLS.plan, {
-      $limit: '2500',
-      $order: ':updated_at DESC'
-    }),
-    safeFetch('awd', URLS.awd, {
-      $limit: '1500',
-      $order: ':updated_at DESC'
-    })
-  ]);
-
-  const pubs = pubRaw
-    .map(normalizePub)
-    .filter((x) => !x.date || x.date >= LAST_60_DAYS)
-    .filter((x) => isTargetRecord(x.organ, x.scope));
-
-  const exes = exeRaw
-    .map(normalizeExe)
-    .filter((x) => !x.date || x.date >= LAST_60_DAYS)
-    .filter((x) => isTargetRecord(x.organ, x.scope));
-
-  const plans = planRaw
-    .map(normalizePlan)
-    .filter((x) => {
-      const anyValue = get(x.raw, ['any', 'Any']);
-      return String(anyValue || '').includes('2026') || String(x.date || '').includes('2026');
-    })
-    .filter((x) => isTargetRecord(x.organ, x.scope));
-
-  const awds = awdRaw
-    .map(normalizeAwd)
-    .filter((x) => !x.date || x.date >= LAST_365_DAYS)
-    .filter((x) => isTargetRecord(x.organ, x.scope));
-
-  const groups = new Map();
-
-  for (const item of [...pubs, ...exes, ...plans]) {
-    const key = keyFor(item);
-    if (!groups.has(key)) groups.set(key, []);
-    groups.get(key).push(item);
-  }
-
-  const items = [];
-
-  for (const entries of groups.values()) {
-    entries.sort(
-      (a, b) =>
-        new Date(b.date || 0) - new Date(a.date || 0) ||
-        statusPriority(b.status) - statusPriority(a.status)
-    );
-
-    const head = entries[0];
-    const recentPubs = entries.filter((x) => x.source === 'pub' || x.source === 'exe');
-    const signals = recentPubs.filter((x) => ['consulta', 'previ'].includes(x.status));
-    const alertShorts = [...new Set(recentPubs.map((x) => x.short).filter(Boolean))];
-    const signalLabels = [...new Set(signals.map((x) => x.short).filter(Boolean))];
-    const alertUrl = recentPubs.find((x) => x.url)?.url || head.url || null;
-
-    const planMatch =
-      plans
-        .map((p) => ({
-          p,
-          score:
-            (normalizeText(p.organ) === normalizeText(head.organ) ? 0.25 : 0) +
-            (head.cpv && p.cpv && String(head.cpv).slice(0, 4) === String(p.cpv).slice(0, 4)
-              ? 0.2
-              : 0) +
-            Math.min(0.7, similarity(head.title, p.title))
-        }))
-        .filter((x) => x.score >= 0.45)
-        .sort((a, b) => b.score - a.score)[0]?.p || null;
-
-    const inc =
-      awds
-        .map((a) => ({
-          a,
-          score:
-            (normalizeText(a.organ) === normalizeText(head.organ) ? 0.2 : 0) +
-            (head.cpv && a.cpv && String(head.cpv).slice(0, 4) === String(a.cpv).slice(0, 4)
-              ? 0.25
-              : 0) +
-            Math.min(0.65, similarity(head.title, a.title))
-        }))
-        .filter((x) => x.score >= 0.45)
-        .sort((a, b) => b.score - a.score)[0]?.a || null;
-
-    const item = {
-      title: head.title,
-      organ: head.organ,
-      scope: head.scope,
-      expedient: head.expedient,
-      cpv: head.cpv,
-      amount: head.amount,
-      date: head.date,
-      status: head.status,
-      url: head.url,
-      follow_url: head.url,
-      priority: '',
-      tags: [...new Set(entries.map((x) => x.status))],
-      alerts: {
-        count: recentPubs.length,
-        latest_short: recentPubs[0]?.short || head.short,
-        recent_short: alertShorts,
-        url: alertUrl
-      },
-      signals: {
-        count: signals.length,
-        labels: signalLabels,
-        url: signals[0]?.url || null
-      },
-      programmed: planMatch
-        ? {
-            matched: true,
-            title: planMatch.title,
-            amount: planMatch.amount,
-            url: planMatch.url
-          }
-        : { matched: false },
-      incumbent: inc
-        ? {
-            provider: inc.provider,
-            discount_pct: inc.discount_pct,
-            previous_contract: inc.expedient,
-            url: inc.url,
-            date: inc.date
-          }
-        : null
-    };
-
-    item.priority = priorityLabel(item);
-    items.push(item);
-  }
-
-  items.sort(
-    (a, b) => new Date(b.date || 0) - new Date(a.date || 0) || (b.amount || 0) - (a.amount || 0)
-  );
-
-  return {
-    meta: {
-      generated_at: ISO_NOW,
-      snapshot_scope: 'Generalitat de Catalunya + focus CTTI',
-      items: items.length,
-      sources: [
-        'PSCP publicacions',
-        'PSCP execució',
-        'Programació 2026',
-        'Adjudicacions històriques'
-      ]
-    },
-    items
-  };
-}
-
-await fs.mkdir(DATA_DIR, { recursive: true });
-
-let snapshot = null;
-
-try {
-  snapshot = await buildSnapshot();
-} catch (err) {
-  console.error('[FATAL] No s’ha pogut construir el snapshot:', err?.message || err);
-
-  try {
-    const current = await fs.readFile(OUT, 'utf8');
-    snapshot = JSON.parse(current);
-  } catch {
-    snapshot = {
-      meta: {
-        generated_at: ISO_NOW,
-        snapshot_scope: 'Generalitat de Catalunya + focus CTTI',
-        items: 0,
-        sources: [],
-        warning: 'Snapshot buit per error de sincronització'
-      },
-      items: []
-    };
-  }
-}
-
-await fs.writeFile(OUT, JSON.stringify(snapshot, null, 2), 'utf8');
-console.log(`snapshot escrit: ${OUT} (${snapshot.items.length} fitxes)`);
+    title: inferTitle(obj),
+    organ: inferOrgan(obj),
+    scope: inferScope(obj),
+    expedient: inferExpedient(obj),
