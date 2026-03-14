@@ -11,14 +11,39 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: '20'
+          node-version: '24'
+          package-manager-cache: false
+
+      - name: Debug repo contents
+        run: |
+          echo "PWD:"
+          pwd
+          echo ""
+          echo "ROOT:"
+          ls -la
+          echo ""
+          echo "SCRIPTS:"
+          ls -la scripts || true
+          echo ""
+          echo "DATA:"
+          ls -la data || true
+          echo ""
+          echo "NODE:"
+          node -v
+          npm -v
+
+      - name: Check sync script exists
+        run: |
+          test -f scripts/sync.mjs
+          echo "sync.mjs trobat correctament"
 
       - name: Generate snapshot
         run: node scripts/sync.mjs
