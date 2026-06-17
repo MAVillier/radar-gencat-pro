@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T13:58:09.611Z",
+    "generated_at": "2026-06-17T17:21:17.468Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
-    "items": 4658,
+    "items": 4657,
     "sources": [
       "PSCP publicacions",
       "PSCP execució",
@@ -31184,52 +31184,6 @@
         "title": "Sense títol",
         "amount": null,
         "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300767656"
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Sistema Dinàmic d'Adquisició del Subministrament de MATERIAL SANITARI (BIS)",
-      "organ": "Consorci de Salut i d'Atenció Social de Catalunya",
-      "scope": "Entitats de l'administració local",
-      "expedient": "SDA M 1/22 BIS",
-      "cpv": "33140000-3",
-      "amount": 26055359900,
-      "date": "2026-01-30T12:46:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/cdbd8110-940d-4129-d7b8-da7ea768b128/300679656"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/cdbd8110-940d-4129-d7b8-da7ea768b128/300679656"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Licitació oberta",
-        "recent_short": [
-          "Licitació oberta"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/cdbd8110-940d-4129-d7b8-da7ea768b128/300679656"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/cdbd8110-940d-4129-d7b8-da7ea768b128/300679656"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Sistema Dinàmic d'Adquisició pel Subministrament de llicències",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/cdbd8110-940d-4129-d7b8-da7ea768b128/300679656"
-        }
       },
       "incumbent": null
     },
