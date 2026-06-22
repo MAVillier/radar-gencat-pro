@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-06-22T06:39:55.284Z",
+    "generated_at": "2026-06-22T13:03:52.962Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
-    "items": 11734,
+    "items": 11736,
     "sources": [
       "PSCP publicacions",
       "PSCP execució",
@@ -22477,6 +22477,47 @@
         "title": "Sense títol",
         "amount": null,
         "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300796702"
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contracte d¡obres per la reurbanització del carrer Miquel Tort de Molins de Rei. Les obres queden definides en el Projecte de reurbanització del carrer Miquel Tort, el qual té com objecte la remodelació total del carrer i els seus serveis",
+      "organ": "Ajuntament de Molins de Rei",
+      "scope": "Entitats de l'administració local",
+      "expedient": "3/2026/COSOB",
+      "cpv": "45233200-1||45232300-5||45232000-2||45231400-9||45232400-6",
+      "amount": 75681722,
+      "date": "2026-06-21T08:02:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/9afd5e10-4429-4d92-af97-e5f31665606f/300792687"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/9afd5e10-4429-4d92-af97-e5f31665606f/300792687"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Licitació oberta",
+        "recent_short": [
+          "Licitació oberta"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/9afd5e10-4429-4d92-af97-e5f31665606f/300792687"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/9afd5e10-4429-4d92-af97-e5f31665606f/300792687"
+        }
+      },
+      "programmed": {
+        "matched": false
       },
       "incumbent": null
     },
@@ -51592,6 +51633,52 @@
         "amount": null,
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/f7f5900a-56a6-4fbb-8df2-1cf2b8306cec/300788213"
+        }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "L'objecte del contracte versa sobre l'execució de les obres per a la construcció d'una promoció municipal de 18 habitatges de protecció oficial (HPO) i comprèn també, de forma conjunta, la redacció del projecte d'obres corresponent, en els termes definits al Plec de Prescripcions Tècniques. El projecte es desenvoluparà a la parcel·la 24 situada al pla parcial Pla de Tomet, carrer La Coma, número 3, en el terme municipal de Bellver de Cerdanya. Aquesta actuació s'emmarca en la convocatòria per a la concessió de subvencions per a la promoció d’habitatges amb protecció oficial en règim de lloguer o cessió d’ús per a l’any 2024, definida per la Resolució TER/1799/2024, de 23 de maig, de l'Agència de l'Habitatge de Catalunya. En estar vinculada a un programa amb un calendari d'execució establert, la contractació conjunta de l'elaboració del projecte i l'execució de l'obra queda justificada per assolir els objectius d'eficàcia, simplificació i celeritat, d'acord amb l'article 2.1.f) del Decret llei 3/2025, de 4 de març. El contracte es tipifica com a contracte d'obres, atès que inclou de forma conjunta l'execució d'una obra i la redacció del projecte, d'acord amb els articles 13.1.a) i 234 de la Llei 9/2017, de 8 de novembre, de Contractes del Sector Públic (LCSP). Aquestes obres es classifiquen com a obres de primer establiment segons l’art. 232.2 de la LCSP. La inclusió en el seu objecte de la prestació de redacció del projecte d'obres no implica que la seva tramitació s'hagi de fer a través d'un concurs de projectes.",
+      "organ": "Ajuntament de Bellver de Cerdanya",
+      "scope": "Entitats de l'administració local",
+      "expedient": "473/2026",
+      "cpv": "45211200-1||71000000-8||71242000-6||45211340-4",
+      "amount": 37082353,
+      "date": "2026-05-14T14:08:00.000",
+      "status": "avaluacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/2d508644-cdde-41fe-adfe-309450eb8a47/300811010"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/2d508644-cdde-41fe-adfe-309450eb8a47/300811010"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/2d508644-cdde-41fe-adfe-309450eb8a47/300811010"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/2d508644-cdde-41fe-adfe-309450eb8a47/300811010"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Servei de redacció del projecte d'obra de les obres del servei pneumologia",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/2d508644-cdde-41fe-adfe-309450eb8a47/300811010"
         }
       },
       "incumbent": null
@@ -219262,6 +219349,52 @@
       "incumbent": null
     },
     {
+      "title": "Servei de Direcció d'Obra i Execució de l’obra per a la implantació del disseny DOMUM a les sales d’espera de les plantes 1 i 2 d’Hospitalització de l’Hospital Sant Jaume de Calella, per encàrrec de la Corporació de Salut del Maresme i la Selva",
+      "organ": "Corporació de Salut del Maresme i la Selva",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSMS PN 2/26-D",
+      "cpv": "45000000-7",
+      "amount": 625059,
+      "date": "2026-02-06T11:34:00.000",
+      "status": "formalitzacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/811f592d-8cd1-4d11-b103-11f05a89182a/300811112"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/811f592d-8cd1-4d11-b103-11f05a89182a/300811112"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "formalitzacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Contracte formalitzat",
+        "recent_short": [
+          "Contracte formalitzat"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/811f592d-8cd1-4d11-b103-11f05a89182a/300811112"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/811f592d-8cd1-4d11-b103-11f05a89182a/300811112"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Direcció d'execució",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/811f592d-8cd1-4d11-b103-11f05a89182a/300811112"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "Prestació del servei de menjador escolar mitjançant el sistema de càtering a les llars d’infants municipals de gestió directa de l’Ajuntament de Figueres, concretament de la Llar d’infants municipal Els Pins, Pujada del Castell, s/n., i la Llar d’infants municipal Bon Pastor, carrer Doctor Barraquer, 2. El servei inclou el subministrament diari dels àpats en dies lectius (de dilluns a divendres), tant pel que fa al dinar com al berenar, i comprèn tant la preparació, transport i distribució dels àpats, com el manteniment dels aliments en òptimes condicions de conservació i higiene, assegurant-ne l’adequació nutricional i la seguretat alimentària per a infants de 4 mesos a 3 anys.",
       "organ": "Ajuntament de Figueres",
       "scope": "Entitats de l'administració local",
@@ -288898,47 +289031,6 @@
         "labels": [],
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/f9de5ad6-0b75-4c56-9987-6d434e3e5c93/300764976"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Construcció màscares teatrals - AULA TEATRE URV - OICS",
-      "organ": "Universitat Rovira i Virgili",
-      "scope": "Universitats",
-      "expedient": "2026/000000005066",
-      "cpv": "79000000-4",
-      "amount": 900,
-      "date": "2026-01-18T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/f0be5396-1db7-4764-b898-dcc0209b45f8/300740902"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/f0be5396-1db7-4764-b898-dcc0209b45f8/300740902"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/f0be5396-1db7-4764-b898-dcc0209b45f8/300740902"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/f0be5396-1db7-4764-b898-dcc0209b45f8/300740902"
         }
       },
       "programmed": {
