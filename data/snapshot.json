@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T04:49:45.343Z",
+    "generated_at": "2026-06-28T08:27:36.260Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
     "items": 11312,
     "sources": [
@@ -67329,32 +67329,32 @@
       "cpv": "72262000-9",
       "amount": 14000,
       "date": "2026-06-10T12:02:00.000",
-      "status": "adjudicacio",
+      "status": "formalitzacio",
       "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/ed858f5f-5977-4891-90b8-808414f9b6fd/300813883"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/ed858f5f-5977-4891-90b8-808414f9b6fd/300815826"
       },
       "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/ed858f5f-5977-4891-90b8-808414f9b6fd/300813883"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/ed858f5f-5977-4891-90b8-808414f9b6fd/300815826"
       },
       "priority": "Seguiment",
       "tags": [
-        "adjudicacio"
+        "formalitzacio"
       ],
       "alerts": {
         "count": 1,
-        "latest_short": "Adjudicació publicada",
+        "latest_short": "Contracte formalitzat",
         "recent_short": [
-          "Adjudicació publicada"
+          "Contracte formalitzat"
         ],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/ed858f5f-5977-4891-90b8-808414f9b6fd/300813883"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/ed858f5f-5977-4891-90b8-808414f9b6fd/300815826"
         }
       },
       "signals": {
         "count": 0,
         "labels": [],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/ed858f5f-5977-4891-90b8-808414f9b6fd/300813883"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/ed858f5f-5977-4891-90b8-808414f9b6fd/300815826"
         }
       },
       "programmed": {
@@ -90146,32 +90146,32 @@
       "cpv": "45200000-9",
       "amount": 31146985,
       "date": "2026-05-20T16:38:00.000",
-      "status": "adjudicacio",
+      "status": "formalitzacio",
       "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/594a0d24-0e77-42e7-acff-d9ea53447b44/300813753"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/594a0d24-0e77-42e7-acff-d9ea53447b44/300815764"
       },
       "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/594a0d24-0e77-42e7-acff-d9ea53447b44/300813753"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/594a0d24-0e77-42e7-acff-d9ea53447b44/300815764"
       },
       "priority": "Seguiment",
       "tags": [
-        "adjudicacio"
+        "formalitzacio"
       ],
       "alerts": {
         "count": 1,
-        "latest_short": "Adjudicació publicada",
+        "latest_short": "Contracte formalitzat",
         "recent_short": [
-          "Adjudicació publicada"
+          "Contracte formalitzat"
         ],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/594a0d24-0e77-42e7-acff-d9ea53447b44/300813753"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/594a0d24-0e77-42e7-acff-d9ea53447b44/300815764"
         }
       },
       "signals": {
         "count": 0,
         "labels": [],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/594a0d24-0e77-42e7-acff-d9ea53447b44/300813753"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/594a0d24-0e77-42e7-acff-d9ea53447b44/300815764"
         }
       },
       "programmed": {
@@ -90179,7 +90179,7 @@
         "title": "Obra instal·lació Capçals Hospitalització",
         "amount": null,
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/594a0d24-0e77-42e7-acff-d9ea53447b44/300813753"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/594a0d24-0e77-42e7-acff-d9ea53447b44/300815764"
         }
       },
       "incumbent": null
