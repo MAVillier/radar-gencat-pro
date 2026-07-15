@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T17:36:19.909Z",
+    "generated_at": "2026-07-15T19:34:05.299Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
     "items": 14138,
     "sources": [
@@ -68972,6 +68972,47 @@
       "incumbent": null
     },
     {
+      "title": "Participació a la Taula rodona sobre els bombardejos de la Guerra Civil sobre la ciutat de Tortosa i els efectes sobre la po",
+      "organ": "Ajuntament de Tortosa",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026-IAC-C0208-000006-4",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-06-22T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Tallers d’aproximació a la música a càrrec de l’Associació LaBinota el Dilluns 18 de maig.",
       "organ": "Ajuntament de Tortosa",
       "scope": "Entitats de l'administració local",
@@ -69181,47 +69222,6 @@
       "organ": "Ajuntament de Tortosa",
       "scope": "Entitats de l'administració local",
       "expedient": "2026-IAC-C0208-000006-5",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-06-22T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Participació a la Taula rodona sobre els bombardejos de la Guerra Civil sobre la ciutat de Tortosa i els efectes sobre la po",
-      "organ": "Ajuntament de Tortosa",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026-IAC-C0208-000006-4",
       "cpv": "",
       "amount": null,
       "date": "2026-06-22T00:00:00.000",
@@ -124879,6 +124879,47 @@
       "incumbent": null
     },
     {
+      "title": "Contractació específic SDA Subministrament general de laboratori, lot 2",
+      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSUC-SDA-23-02LOT2-260005908",
+      "cpv": "",
+      "amount": 1200000000,
+      "date": "2026-06-09T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -124921,47 +124962,6 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
         }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Contractació específic SDA Subministrament general de laboratori, lot 2",
-      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CSUC-SDA-23-02LOT2-260005908",
-      "cpv": "",
-      "amount": 1200000000,
-      "date": "2026-06-09T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "programmed": {
-        "matched": false
       },
       "incumbent": null
     },
@@ -145607,6 +145607,47 @@
       "incumbent": null
     },
     {
+      "title": "Netejar i pentinar sis gegants",
+      "organ": "Ajuntament de Tortosa",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026-IAC-C0208-000039-1",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-06-08T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Subscripció Biblioteca M. Domingo diari La Vanguardia en català 12 mesos any 2026",
       "organ": "Ajuntament de Tortosa",
       "scope": "Entitats de l'administració local",
@@ -145992,47 +146033,6 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
         }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Netejar i pentinar sis gegants",
-      "organ": "Ajuntament de Tortosa",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026-IAC-C0208-000039-1",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-06-08T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-        }
-      },
-      "programmed": {
-        "matched": false
       },
       "incumbent": null
     },
@@ -160324,47 +160324,6 @@
       "incumbent": null
     },
     {
-      "title": "TALLER TETARE",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026023335",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-06-04T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b77c674-40fb-44da-8baa-9cfb59e9a7dd/300831408"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b77c674-40fb-44da-8baa-9cfb59e9a7dd/300831408"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b77c674-40fb-44da-8baa-9cfb59e9a7dd/300831408"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b77c674-40fb-44da-8baa-9cfb59e9a7dd/300831408"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "mobiliari per laboratori",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -160489,6 +160448,47 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b77c674-40fb-44da-8baa-9cfb59e9a7dd/300831408"
         }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "TALLER TETARE",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026023335",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-06-04T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b77c674-40fb-44da-8baa-9cfb59e9a7dd/300831408"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b77c674-40fb-44da-8baa-9cfb59e9a7dd/300831408"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b77c674-40fb-44da-8baa-9cfb59e9a7dd/300831408"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b77c674-40fb-44da-8baa-9cfb59e9a7dd/300831408"
+        }
+      },
+      "programmed": {
+        "matched": false
       },
       "incumbent": null
     },
@@ -173217,52 +173217,6 @@
       "incumbent": null
     },
     {
-      "title": "Servei d’elaboració del pressupost per a la redacció del Projecte Executi",
-      "organ": "Ajuntament de Tortosa",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026-IAC-C0208-000033",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-06-02T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Servei de redaccío de projecte per rehabilitació ITE's",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
-        }
-      },
-      "incumbent": null
-    },
-    {
       "title": "C:4200436608 Diplomes Facultat Belles Arts",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -173428,6 +173382,52 @@
       },
       "programmed": {
         "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Servei d’elaboració del pressupost per a la redacció del Projecte Executi",
+      "organ": "Ajuntament de Tortosa",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026-IAC-C0208-000033",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-06-02T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Servei de redaccío de projecte per rehabilitació ITE's",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6b22b465-0d65-49db-99ee-be297516b20b/300746427"
+        }
       },
       "incumbent": null
     },
@@ -179739,47 +179739,6 @@
       "incumbent": null
     },
     {
-      "title": "Material informàtica",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026022692",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-06-01T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "K-tuin Sistemas PC",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -180035,6 +179994,47 @@
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
       "expedient": "2026022603",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-06-01T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Material informàtica",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026022692",
       "cpv": "",
       "amount": null,
       "date": "2026-06-01T00:00:00.000",
@@ -185990,47 +185990,6 @@
       "incumbent": null
     },
     {
-      "title": "ALLOTJAMENT SR. A. GHIONNA DEL 22-24/06/26",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026022178",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-05-29T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "4200436075, REY CENTER, FUNGIBLE, SUSANA FRAGUAS",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -186076,6 +186035,47 @@
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
       "expedient": "2026022313",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-05-29T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "ALLOTJAMENT SR. A. GHIONNA DEL 22-24/06/26",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026022178",
       "cpv": "",
       "amount": null,
       "date": "2026-05-29T00:00:00.000",
@@ -188292,47 +188292,6 @@
       "title": "Contractació específic SDA Subministrament general de laboratori, lot 2",
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CSUC-SDA-23-02LOT2-260005505",
-      "cpv": "",
-      "amount": 1200000000,
-      "date": "2026-05-28T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Contractació específic SDA Subministrament general de laboratori, lot 2",
-      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "CSUC-SDA-23-02LOT2-260005486",
       "cpv": "",
       "amount": 1200000000,
@@ -188375,6 +188334,47 @@
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "CSUC-SDA-23-02LOT2-260005487",
+      "cpv": "",
+      "amount": 1200000000,
+      "date": "2026-05-28T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contractació específic SDA Subministrament general de laboratori, lot 2",
+      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSUC-SDA-23-02LOT2-260005505",
       "cpv": "",
       "amount": 1200000000,
       "date": "2026-05-28T00:00:00.000",
@@ -194635,52 +194635,6 @@
       "incumbent": null
     },
     {
-      "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
-      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CSUC-SDA-23-02LOT1-260005431",
-      "cpv": "",
-      "amount": 1200000000,
-      "date": "2026-05-27T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Consultoria de medi ambient",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "incumbent": null
-    },
-    {
       "title": "Contractació específic SDA Subministrament general de laboratori, lot 2",
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -195089,6 +195043,52 @@
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "CSUC-SDA-23-02LOT1-260005448",
+      "cpv": "",
+      "amount": 1200000000,
+      "date": "2026-05-27T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Consultoria de medi ambient",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
+      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSUC-SDA-23-02LOT1-260005431",
       "cpv": "",
       "amount": 1200000000,
       "date": "2026-05-27T00:00:00.000",
@@ -199349,47 +199349,6 @@
       "incumbent": null
     },
     {
-      "title": "Contractació específic SDA Subministrament general de laboratori, lot 2",
-      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CSUC-SDA-23-02LOT2-260005405",
-      "cpv": "",
-      "amount": 1200000000,
-      "date": "2026-05-26T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -199816,6 +199775,47 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
         }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contractació específic SDA Subministrament general de laboratori, lot 2",
+      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSUC-SDA-23-02LOT2-260005405",
+      "cpv": "",
+      "amount": 1200000000,
+      "date": "2026-05-26T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "programmed": {
+        "matched": false
       },
       "incumbent": null
     },
@@ -228496,52 +228496,6 @@
       "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CSUC-SDA-23-02LOT1-260005000",
-      "cpv": "",
-      "amount": 1200000000,
-      "date": "2026-05-15T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Consultoria de medi ambient",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
-      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "CSUC-SDA-23-02LOT1-260005023",
       "cpv": "",
       "amount": 1200000000,
@@ -228855,6 +228809,52 @@
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "CSUC-SDA-23-02LOT1-260005001",
+      "cpv": "",
+      "amount": 1200000000,
+      "date": "2026-05-15T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Consultoria de medi ambient",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
+      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSUC-SDA-23-02LOT1-260005000",
       "cpv": "",
       "amount": 1200000000,
       "date": "2026-05-15T00:00:00.000",
@@ -236018,47 +236018,6 @@
       "incumbent": null
     },
     {
-      "title": "Contractació específic SDA Subministrament d'instrumentació general auxiliar i electrònica de laboratori, equips de laboratori i aparells de mesura, lot 3",
-      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CSUC-SDA-23-02LOT3-260004946",
-      "cpv": "",
-      "amount": 1200000000,
-      "date": "2026-05-14T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -236285,6 +236244,47 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
         }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contractació específic SDA Subministrament d'instrumentació general auxiliar i electrònica de laboratori, equips de laboratori i aparells de mesura, lot 3",
+      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSUC-SDA-23-02LOT3-260004946",
+      "cpv": "",
+      "amount": 1200000000,
+      "date": "2026-05-14T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "programmed": {
+        "matched": false
       },
       "incumbent": null
     },
@@ -243702,47 +243702,6 @@
       "incumbent": null
     },
     {
-      "title": "mobles osd facultat de medicina clínic",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026019466",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-05-13T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "Altres",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -244290,6 +244249,47 @@
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
       "expedient": "2026019639",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-05-13T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "mobles osd facultat de medicina clínic",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026019466",
       "cpv": "",
       "amount": null,
       "date": "2026-05-13T00:00:00.000",
@@ -246453,6 +246453,47 @@
       "incumbent": null
     },
     {
+      "title": "SUBMINISTRAMENT BATERIES SERVEI ALERGIA",
+      "organ": "ICS - Hospital de Tortosa Verge de la Cinta i GAPiC Àmbit Terres de l'Ebre",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CS/AH07/1101472449/26/CMSO",
+      "cpv": "33696500-0",
+      "amount": 6022,
+      "date": "2026-05-12T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 51,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "FESTES 2026_Contractació menor de serveis de seguretat privada per a la zona Xala-Jove Festes Majors 2026",
       "organ": "Ajuntament de la Ràpita",
       "scope": "Entitats de l'administració local",
@@ -246698,47 +246739,6 @@
       ],
       "alerts": {
         "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "SUBMINISTRAMENT BATERIES SERVEI ALERGIA",
-      "organ": "ICS - Hospital de Tortosa Verge de la Cinta i GAPiC Àmbit Terres de l'Ebre",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CS/AH07/1101472449/26/CMSO",
-      "cpv": "33696500-0",
-      "amount": 546,
-      "date": "2026-05-12T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 51,
         "latest_short": "Actualització expedient",
         "recent_short": [
           "Actualització expedient"
@@ -271944,47 +271944,6 @@
       "incumbent": null
     },
     {
-      "title": "ASSEGURANCA OBRA D'ART QUADRE LLUM CITA CABELLUT",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026018131",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-05-06T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "NIT DEL 13/5 AL 14/05. ESMORZAR INCLÒS. Jorge Fernández del Valle",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -272150,6 +272109,47 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
         }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "ASSEGURANCA OBRA D'ART QUADRE LLUM CITA CABELLUT",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026018131",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-05-06T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+        }
+      },
+      "programmed": {
+        "matched": false
       },
       "incumbent": null
     },
@@ -278088,52 +278088,6 @@
       "incumbent": null
     },
     {
-      "title": "FERICHE - Material de farmàcia pel Servei Mèdic (Tovalloletes per la higiene dels WC)",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026017929",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-05-05T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Subministrament agregat de material d´higiene per a personal",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-        }
-      },
-      "incumbent": null
-    },
-    {
       "title": "4200432568 - 3 DISC DUR- 2 PROJECTES RN003008/3009",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -278212,6 +278166,52 @@
       },
       "programmed": {
         "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "FERICHE - Material de farmàcia pel Servei Mèdic (Tovalloletes per la higiene dels WC)",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026017929",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-05-05T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Subministrament agregat de material d´higiene per a personal",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+        }
       },
       "incumbent": null
     },
@@ -289948,52 +289948,6 @@
       "incumbent": null
     },
     {
-      "title": "PROVEIDOR DE LLICENCIES I SISTEMES INFORMATICS (PROGRAMARI) ENTRE ALTRES SERVEIS",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026017533",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-05-04T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Llicencies D'ús I/O Suport de Programari Vmware Broadcom",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
-        }
-      },
-      "incumbent": null
-    },
-    {
       "title": "Altres",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -290405,6 +290359,52 @@
       },
       "programmed": {
         "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "PROVEIDOR DE LLICENCIES I SISTEMES INFORMATICS (PROGRAMARI) ENTRE ALTRES SERVEIS",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026017533",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-05-04T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Llicencies D'ús I/O Suport de Programari Vmware Broadcom",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/6d27e2b1-200b-4a3b-a0f1-af210fc52f57/300832178"
+        }
       },
       "incumbent": null
     },
@@ -308059,47 +308059,6 @@
       "incumbent": null
     },
     {
-      "title": "Desmuntatge cable 25 parells telefònics de rack BG1 a rack GP (Ed. Històric)",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026016558",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-04-27T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "SERVEI DE PATRÓ PER EL MOSTREIG DE MICROPLÀSTICS FLOTANTS",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -308975,6 +308934,47 @@
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
       "expedient": "2026016550",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-04-27T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Desmuntatge cable 25 parells telefònics de rack BG1 a rack GP (Ed. Històric)",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026016558",
       "cpv": "",
       "amount": null,
       "date": "2026-04-27T00:00:00.000",
@@ -343421,47 +343421,6 @@
       "incumbent": null
     },
     {
-      "title": "Coixí funerari. Sepeli d'Antonia Tena González",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026015230",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-04-17T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "MAT LAB. X200 PIPETTE 5 ML ST PAPIER/PLAST_10 ML ST PAPIER/PLAST_25 ML ST PAPIER/PLAST",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -343712,6 +343671,47 @@
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
       "expedient": "2026015242",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-04-17T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Coixí funerari. Sepeli d'Antonia Tena González",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026015230",
       "cpv": "",
       "amount": null,
       "date": "2026-04-17T00:00:00.000",
@@ -365361,47 +365361,6 @@
       "incumbent": null
     },
     {
-      "title": "Despeses representació UB",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026014710",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-04-14T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "1,3-Diethyl-2-thiobarbituric acid;Benzo[b]thiophen-3(2H)-one 1,1-dioxidem;Ethyl 3-oxo-3-phenylpropanoate",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -365818,6 +365777,47 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
         }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Despeses representació UB",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026014710",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-04-14T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7d6a2652-e1a3-4080-b73a-e780ddc49470/300832185"
+        }
+      },
+      "programmed": {
+        "matched": false
       },
       "incumbent": null
     },
@@ -388843,47 +388843,6 @@
       "incumbent": null
     },
     {
-      "title": "4200430085, NOVOGENE, SECUENCIACIÓ. IGNACIO MAESO",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026013691",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-04-09T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "Pressupost 20260086 del 26/03/2026",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -389100,6 +389059,47 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
         }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "4200430085, NOVOGENE, SECUENCIACIÓ. IGNACIO MAESO",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026013691",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-04-09T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b07ac969-9ba4-4b62-ba05-7a0d7f18744d/300832092"
+        }
+      },
+      "programmed": {
+        "matched": false
       },
       "incumbent": null
     },
@@ -397329,10 +397329,10 @@
       "incumbent": null
     },
     {
-      "title": "Rebut llum escala bloc C/ Unió",
+      "title": "Rebut llum garatge bloc C/ Unió",
       "organ": "Ascó Serveis",
       "scope": "Entitats de l'administració local",
-      "expedient": "14674381",
+      "expedient": "14674380",
       "cpv": "",
       "amount": null,
       "date": "2026-04-08T00:00:00.000",
@@ -397370,10 +397370,10 @@
       "incumbent": null
     },
     {
-      "title": "Rebut llum garatge bloc C/ Unió",
+      "title": "Rebut llum escala bloc C/ Unió",
       "organ": "Ascó Serveis",
       "scope": "Entitats de l'administració local",
-      "expedient": "14674380",
+      "expedient": "14674381",
       "cpv": "",
       "amount": null,
       "date": "2026-04-08T00:00:00.000",
@@ -399027,52 +399027,6 @@
       "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CSUC-SDA-23-02LOT1-260003555",
-      "cpv": "",
-      "amount": 1200000000,
-      "date": "2026-04-07T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Consultoria de medi ambient",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
-      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "CSUC-SDA-23-02LOT1-260003563",
       "cpv": "",
       "amount": 1200000000,
@@ -399373,6 +399327,52 @@
       },
       "programmed": {
         "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
+      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSUC-SDA-23-02LOT1-260003555",
+      "cpv": "",
+      "amount": 1200000000,
+      "date": "2026-04-07T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Consultoria de medi ambient",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
       },
       "incumbent": null
     },
@@ -404702,52 +404702,6 @@
       "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CSUC-SDA-23-02LOT1-260003508",
-      "cpv": "",
-      "amount": 1200000000,
-      "date": "2026-04-02T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Consultoria de medi ambient",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
-      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "CSUC-SDA-23-02LOT1-260003512",
       "cpv": "",
       "amount": 1200000000,
@@ -405258,6 +405212,52 @@
       },
       "programmed": {
         "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
+      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSUC-SDA-23-02LOT1-260003508",
+      "cpv": "",
+      "amount": 1200000000,
+      "date": "2026-04-02T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Consultoria de medi ambient",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
       },
       "incumbent": null
     },
@@ -408100,52 +408100,6 @@
       "incumbent": null
     },
     {
-      "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
-      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CSUC-SDA-23-02LOT1-260003480",
-      "cpv": "",
-      "amount": 1200000000,
-      "date": "2026-04-01T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Consultoria de medi ambient",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
-        }
-      },
-      "incumbent": null
-    },
-    {
       "title": "Contractació específic SDA Subministrament general de laboratori, lot 2",
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -408283,6 +408237,52 @@
       "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "CSUC-SDA-23-02LOT1-260003489",
+      "cpv": "",
+      "amount": 1200000000,
+      "date": "2026-04-01T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Consultoria de medi ambient",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/891f090c-2156-412c-9458-b2f1dfb889f9/300830595"
+        }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contractació específic SDA Subministrament de productes químics, reactius i productes i accessoris de biologia, geologia, medicina, química i medi ambient, lot 1",
+      "organ": "Fundació Institut de Recerca Biomèdica (IRB Barcelona)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSUC-SDA-23-02LOT1-260003480",
       "cpv": "",
       "amount": 1200000000,
       "date": "2026-04-01T00:00:00.000",
