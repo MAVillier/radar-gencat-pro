@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T18:17:59.067Z",
+    "generated_at": "2026-07-16T20:09:33.817Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
-    "items": 13578,
+    "items": 13579,
     "sources": [
       "PSCP publicacions",
       "PSCP execució",
@@ -116571,6 +116571,47 @@
       "incumbent": null
     },
     {
+      "title": "MATERIAL DEPARTAMENT PINTORS: DISCOS, GOT MESCLA, TAPA GOT MESCLA, COLADOR PAPER.",
+      "organ": "Ajuntament de Vandellòs i l'Hospitalet de l'Infant",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2754/2026_53",
+      "cpv": "",
+      "amount": 19115,
+      "date": "2026-06-08T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4264a9b-71f7-4891-bfba-f409b60a70ab/300761308"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4264a9b-71f7-4891-bfba-f409b60a70ab/300761308"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4264a9b-71f7-4891-bfba-f409b60a70ab/300761308"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4264a9b-71f7-4891-bfba-f409b60a70ab/300761308"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "23/02: Sistema Dinàmic d'Adquisició pel subministrament de material de laboratori",
       "organ": "Fundació Hospital Universitari Vall d'Hebron - Institut de Recerca",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -120893,6 +120934,47 @@
       "expedient": "2754/2026_27",
       "cpv": "",
       "amount": 304,
+      "date": "2026-06-08T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4264a9b-71f7-4891-bfba-f409b60a70ab/300761308"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4264a9b-71f7-4891-bfba-f409b60a70ab/300761308"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4264a9b-71f7-4891-bfba-f409b60a70ab/300761308"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4264a9b-71f7-4891-bfba-f409b60a70ab/300761308"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "20 PECES EN FORMA DE U PEL PASSAMANS DEL PONT DE FUSTA",
+      "organ": "Ajuntament de Vandellòs i l'Hospitalet de l'Infant",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2754/2026_47",
+      "cpv": "",
+      "amount": 300,
       "date": "2026-06-08T00:00:00.000",
       "status": "licitacio",
       "url": {
@@ -153135,6 +153217,47 @@
       "incumbent": null
     },
     {
+      "title": "ALLOTJAMENT SR. A. GHIONNA DEL 22-24/06/26",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026022178",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-05-29T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "4200436075, REY CENTER, FUNGIBLE, SUSANA FRAGUAS",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -153180,47 +153303,6 @@
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
       "expedient": "2026022313",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-05-29T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "ALLOTJAMENT SR. A. GHIONNA DEL 22-24/06/26",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026022178",
       "cpv": "",
       "amount": null,
       "date": "2026-05-29T00:00:00.000",
@@ -251785,6 +251867,47 @@
       "incumbent": null
     },
     {
+      "title": "mobles osd facultat de medicina clínic",
+      "organ": "Universitat de Barcelona",
+      "scope": "Universitats",
+      "expedient": "2026019466",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-05-13T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Altres",
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
@@ -252332,47 +252455,6 @@
       "organ": "Universitat de Barcelona",
       "scope": "Universitats",
       "expedient": "2026019639",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-05-13T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b73dc490-14ae-48c3-9d8d-3072ea62f145/300832152"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "mobles osd facultat de medicina clínic",
-      "organ": "Universitat de Barcelona",
-      "scope": "Universitats",
-      "expedient": "2026019466",
       "cpv": "",
       "amount": null,
       "date": "2026-05-13T00:00:00.000",
@@ -255062,47 +255144,6 @@
       "incumbent": null
     },
     {
-      "title": "SUBMINISTRAMENT BATERIES SERVEI ALERGIA",
-      "organ": "ICS - Hospital de Tortosa Verge de la Cinta i GAPiC Àmbit Terres de l'Ebre",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CS/AH07/1101472449/26/CMSO",
-      "cpv": "33696500-0",
-      "amount": 6022,
-      "date": "2026-05-12T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 51,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "Institut Escola Coves d'En Cimany. Activitats eatrals de caràcter educatiu per alumnes 4rt, 5è i 6è",
       "organ": "Centres educatius Barcelona ciutat - Consorci d'Educació de Barcelona",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -256827,6 +256868,47 @@
       ],
       "alerts": {
         "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "SUBMINISTRAMENT BATERIES SERVEI ALERGIA",
+      "organ": "ICS - Hospital de Tortosa Verge de la Cinta i GAPiC Àmbit Terres de l'Ebre",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CS/AH07/1101472449/26/CMSO",
+      "cpv": "33696500-0",
+      "amount": 546,
+      "date": "2026-05-12T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/d2ae1fe5-7119-447c-a336-bd69c7178c74/300832019"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 51,
         "latest_short": "Actualització expedient",
         "recent_short": [
           "Actualització expedient"
@@ -377830,47 +377912,6 @@
         "labels": [],
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/70631b5f-85f2-401d-a460-52a49cdeb5b2/300833922"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "LOT OBSEQUI PER A L’INSTRUCTOR DEL TALLER DE MONES",
-      "organ": "Ajuntament de Vandellòs i l'Hospitalet de l'Infant",
-      "scope": "Entitats de l'administració local",
-      "expedient": "1556/2026_5",
-      "cpv": "",
-      "amount": 567,
-      "date": "2026-04-13T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4264a9b-71f7-4891-bfba-f409b60a70ab/300761308"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4264a9b-71f7-4891-bfba-f409b60a70ab/300761308"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4264a9b-71f7-4891-bfba-f409b60a70ab/300761308"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b4264a9b-71f7-4891-bfba-f409b60a70ab/300761308"
         }
       },
       "programmed": {
