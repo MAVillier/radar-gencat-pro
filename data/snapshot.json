@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T23:05:37.365Z",
+    "generated_at": "2026-07-18T00:06:31.985Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
     "items": 13350,
     "sources": [
@@ -315385,7 +315385,7 @@
       "scope": "Entitats de l'administració local",
       "expedient": "X2026000817",
       "cpv": "77200000-2",
-      "amount": 1684764,
+      "amount": 1884041,
       "date": "2026-04-21T10:28:00.000",
       "status": "adjudicacio",
       "url": {
