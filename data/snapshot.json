@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T03:41:19.714Z",
+    "generated_at": "2026-07-21T06:39:25.105Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
     "items": 13038,
     "sources": [
@@ -114092,6 +114092,47 @@
       "incumbent": null
     },
     {
+      "title": "FLORS HOMENATGE FESTA DE LA VELLESA 2026",
+      "organ": "Ajuntament de Maçanet de Cabrenys",
+      "scope": "Entitats de l'administració local",
+      "expedient": "X2026000300_O_2026_18_62",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-06-07T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/ff4f6def-dcc1-4a13-b9f0-8dff95f78b53/300837005"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/ff4f6def-dcc1-4a13-b9f0-8dff95f78b53/300837005"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/ff4f6def-dcc1-4a13-b9f0-8dff95f78b53/300837005"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/ff4f6def-dcc1-4a13-b9f0-8dff95f78b53/300837005"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "GUARNIMENT 50E HOMENATGE A LA VELLESA 2026",
       "organ": "Ajuntament de Maçanet de Cabrenys",
       "scope": "Entitats de l'administració local",
@@ -114260,47 +114301,6 @@
       "organ": "Ajuntament de Maçanet de Cabrenys",
       "scope": "Entitats de l'administració local",
       "expedient": "X2026000300_O_2026_18_66",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-06-07T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/ff4f6def-dcc1-4a13-b9f0-8dff95f78b53/300837005"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/ff4f6def-dcc1-4a13-b9f0-8dff95f78b53/300837005"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/ff4f6def-dcc1-4a13-b9f0-8dff95f78b53/300837005"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/ff4f6def-dcc1-4a13-b9f0-8dff95f78b53/300837005"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "FLORS HOMENATGE FESTA DE LA VELLESA 2026",
-      "organ": "Ajuntament de Maçanet de Cabrenys",
-      "scope": "Entitats de l'administració local",
-      "expedient": "X2026000300_O_2026_18_62",
       "cpv": "",
       "amount": null,
       "date": "2026-06-07T00:00:00.000",
@@ -131156,47 +131156,6 @@
       "incumbent": null
     },
     {
-      "title": "REPARACIÓ TRACTOR ETESSIA AK98",
-      "organ": "Ajuntament de Ventalló",
-      "scope": "Entitats de l'administració local",
-      "expedient": "X2026000164_15",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-06-01T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6e27e59-a16b-42eb-b006-bda7f9220f64/300835725"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6e27e59-a16b-42eb-b006-bda7f9220f64/300835725"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6e27e59-a16b-42eb-b006-bda7f9220f64/300835725"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6e27e59-a16b-42eb-b006-bda7f9220f64/300835725"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "QUOTA PER ASSESSORAMENT / El.laboració  de  les  nòmines  i  butlletins  de / cotització i  presentació  dels mateixos a la Seguretat Social, demés gestions realitzades en l'àmbit laboral (JUNY 2026)",
       "organ": "Ajuntament de Ventalló",
       "scope": "Entitats de l'administració local",
@@ -131239,6 +131198,47 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6e27e59-a16b-42eb-b006-bda7f9220f64/300835725"
         }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "REPARACIÓ TRACTOR ETESSIA AK98",
+      "organ": "Ajuntament de Ventalló",
+      "scope": "Entitats de l'administració local",
+      "expedient": "X2026000164_15",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-06-01T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6e27e59-a16b-42eb-b006-bda7f9220f64/300835725"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6e27e59-a16b-42eb-b006-bda7f9220f64/300835725"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6e27e59-a16b-42eb-b006-bda7f9220f64/300835725"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6e27e59-a16b-42eb-b006-bda7f9220f64/300835725"
+        }
+      },
+      "programmed": {
+        "matched": false
       },
       "incumbent": null
     },
@@ -250483,7 +250483,7 @@
       "scope": "Entitats de l'administració local",
       "expedient": "X2026000817",
       "cpv": "77200000-2",
-      "amount": 1684764,
+      "amount": 1884041,
       "date": "2026-04-21T10:28:00.000",
       "status": "adjudicacio",
       "url": {
