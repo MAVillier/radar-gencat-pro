@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T22:38:44.590Z",
+    "generated_at": "2026-08-18T23:33:19.608Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
-    "items": 13930,
+    "items": 13931,
     "sources": [
       "PSCP publicacions",
       "PSCP execució",
@@ -3289,42 +3289,6 @@
     },
     {
       "title": "Sense títol",
-      "organ": "Banc de Sang i Teixits (BST)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CSE/1000/1100006466/25/PO",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-12-31T00:00:00.000",
-      "status": "execucio",
-      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300861556",
-      "follow_url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300861556",
-      "priority": "Seguiment",
-      "tags": [
-        "execucio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "En execució",
-        "recent_short": [
-          "En execució"
-        ],
-        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300861556"
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300861556"
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Sense títol",
-        "amount": null,
-        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300861556"
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Sense títol",
       "organ": "Ajuntament de Barberà del Vallès",
       "scope": "Entitats de l'administració local",
       "expedient": "N774220006",
@@ -4909,6 +4873,42 @@
     },
     {
       "title": "Sense títol",
+      "organ": "Ajuntament de Viladecans",
+      "scope": "Entitats de l'administració local",
+      "expedient": "AGI/Contractació/2023/46 – 20/2023/CSERV",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-12-31T00:00:00.000",
+      "status": "execucio",
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300819497",
+      "follow_url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300819497",
+      "priority": "Seguiment",
+      "tags": [
+        "execucio"
+      ],
+      "alerts": {
+        "count": 6,
+        "latest_short": "En execució",
+        "recent_short": [
+          "En execució"
+        ],
+        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300819497"
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300819497"
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Sense títol",
+        "amount": null,
+        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300819497"
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Sense títol",
       "organ": "Consorci Corporació Sanitària Parc Taulí de Sabadell",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "24SER0829",
@@ -5444,42 +5444,6 @@
         "title": "Sense títol",
         "amount": null,
         "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300833768"
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Sense títol",
-      "organ": "Ajuntament de Viladecans",
-      "scope": "Entitats de l'administració local",
-      "expedient": "AGI/Contractació/2023/46 – 20/2023/CSERV",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-12-31T00:00:00.000",
-      "status": "execucio",
-      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300819497",
-      "follow_url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300819497",
-      "priority": "Seguiment",
-      "tags": [
-        "execucio"
-      ],
-      "alerts": {
-        "count": 6,
-        "latest_short": "En execució",
-        "recent_short": [
-          "En execució"
-        ],
-        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300819497"
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300819497"
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Sense títol",
-        "amount": null,
-        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300819497"
       },
       "incumbent": null
     },
@@ -6236,6 +6200,42 @@
         "title": "Sense títol",
         "amount": null,
         "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300830962"
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Sense títol",
+      "organ": "Banc de Sang i Teixits (BST)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CSE/1000/1100006466/25/PO",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-12-31T00:00:00.000",
+      "status": "execucio",
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300861556",
+      "follow_url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300861556",
+      "priority": "Seguiment",
+      "tags": [
+        "execucio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En execució",
+        "recent_short": [
+          "En execució"
+        ],
+        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300861556"
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300861556"
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Sense títol",
+        "amount": null,
+        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300861556"
       },
       "incumbent": null
     },
@@ -13904,6 +13904,42 @@
         "title": "Sense títol",
         "amount": null,
         "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300840877"
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Sense títol",
+      "organ": "Ferrocarrils de la Generalitat de Catalunya",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CONTR/2023/0000000107",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-09-30T00:00:00.000",
+      "status": "execucio",
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300862569",
+      "follow_url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300862569",
+      "priority": "Seguiment",
+      "tags": [
+        "execucio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En execució",
+        "recent_short": [
+          "En execució"
+        ],
+        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300862569"
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300862569"
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Sense títol",
+        "amount": null,
+        "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300862569"
       },
       "incumbent": null
     },
