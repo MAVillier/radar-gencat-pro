@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T14:57:28.946Z",
+    "generated_at": "2026-08-24T15:52:52.811Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
     "items": 13685,
     "sources": [
@@ -23817,7 +23817,7 @@
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "LRC 11/2026-PH",
       "cpv": "85111810-1",
-      "amount": 171000821,
+      "amount": 195486732,
       "date": "2026-08-21T08:28:00.000",
       "status": "licitacio",
       "url": {
@@ -27070,7 +27070,7 @@
       "scope": "Entitats de l'administració local",
       "expedient": "3218/2026",
       "cpv": "85311100-3",
-      "amount": 12600,
+      "amount": 7200,
       "date": "2026-08-20T00:00:00.000",
       "status": "licitacio",
       "url": {
@@ -31331,7 +31331,7 @@
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "CSI-2026-86",
       "cpv": "33140000-3",
-      "amount": 3402,
+      "amount": 2997,
       "date": "2026-08-18T13:26:00.000",
       "status": "licitacio",
       "url": {
@@ -37323,7 +37323,7 @@
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "CSE/AH05/1101477011/27/PO",
       "cpv": "71500000-3",
-      "amount": 52782288,
+      "amount": 2500228,
       "date": "2026-08-14T14:46:00.000",
       "status": "licitacio",
       "url": {
@@ -45857,7 +45857,7 @@
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "CONTR/2026/0000000366",
       "cpv": "72540000-2",
-      "amount": 70200,
+      "amount": 270000,
       "date": "2026-08-06T12:30:00.000",
       "status": "avaluacio",
       "url": {
@@ -46492,7 +46492,7 @@
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "0875/25",
       "cpv": "33182100-0",
-      "amount": 17800,
+      "amount": 3450,
       "date": "2026-08-04T12:56:00.000",
       "status": "avaluacio",
       "url": {
@@ -50650,52 +50650,6 @@
       "incumbent": null
     },
     {
-      "title": "Servei de transport escolar en ambulància des de Vila-Seca a centres d'educació especial de Tarragona, R-20A, curs 2026-27.",
-      "organ": "Consell Comarcal del Tarragonès",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026-0004535",
-      "cpv": "60100000-9",
-      "amount": 1486375,
-      "date": "2026-07-28T13:36:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/c40b587c-edc4-40f5-a07c-3e7f1ea2f751/300860420"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/c40b587c-edc4-40f5-a07c-3e7f1ea2f751/300860420"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c40b587c-edc4-40f5-a07c-3e7f1ea2f751/300860420"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c40b587c-edc4-40f5-a07c-3e7f1ea2f751/300860420"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Servei d'autocars per a transport escolar",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c40b587c-edc4-40f5-a07c-3e7f1ea2f751/300860420"
-        }
-      },
-      "incumbent": null
-    },
-    {
       "title": "L’execució de les obres de la memòria tècnica valorada per la reposició d’asfalt a diversos carrers del municipi pel 2026.",
       "organ": "Ajuntament de Banyoles",
       "scope": "Entitats de l'administració local",
@@ -51126,7 +51080,7 @@
       "scope": "Entitats de l'administració local",
       "expedient": "32/2026-OS",
       "cpv": "30200000-1||48218000-9||30230000-0",
-      "amount": 72000,
+      "amount": 24000,
       "date": "2026-07-27T19:10:00.000",
       "status": "avaluacio",
       "url": {
@@ -52944,7 +52898,7 @@
       "scope": "Entitats de l'administració local",
       "expedient": "2026/7586",
       "cpv": "98371110-8",
-      "amount": 3400,
+      "amount": 6400,
       "date": "2026-07-23T13:02:00.000",
       "status": "avaluacio",
       "url": {
@@ -55651,6 +55605,52 @@
         "amount": null,
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/93dfcf34-8b1d-4e5e-97b4-b4001a513f79/300861153"
+        }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Obra de millora energètica de l’edifici polivalent (antics bombers) de Seròs, d’acord amb el projecte redactat per l’arquitecta municipal Ana Pla Arellano i aprovat per decret d’alcaldia núm 2024-502 de data 18 de novembre de 2024 i publicació de l’aprovació definitiva al BOP de Lleida nº226 de data 22 de novembre de 2024 i DOGC nº9297 de data 25 de novembre de 2024.",
+      "organ": "Ajuntament de Seròs",
+      "scope": "Entitats de l'administració local",
+      "expedient": "482/2026",
+      "cpv": "45111000-8||45320000-6||45400000-1||45300000-0",
+      "amount": 10130629,
+      "date": "2026-07-20T12:32:00.000",
+      "status": "avaluacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/e4cfad2c-f078-4434-8da5-a8d4679f50e8/300860656"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/e4cfad2c-f078-4434-8da5-a8d4679f50e8/300860656"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/e4cfad2c-f078-4434-8da5-a8d4679f50e8/300860656"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/e4cfad2c-f078-4434-8da5-a8d4679f50e8/300860656"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Servei de redacció del projecte i execució de l'obra del CPD, edifici B6",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/e4cfad2c-f078-4434-8da5-a8d4679f50e8/300860656"
         }
       },
       "incumbent": null
@@ -73565,14 +73565,14 @@
       "scope": "Entitats de l'administració local",
       "expedient": "207/2026",
       "cpv": "03142500-3",
-      "amount": 37170,
+      "amount": 64956,
       "date": "2026-06-29T16:24:00.000",
       "status": "adjudicacio",
       "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/f52bb197-55d5-4794-bf92-64ae50d64acd/300848214"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/f52bb197-55d5-4794-bf92-64ae50d64acd/300862436"
       },
       "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/f52bb197-55d5-4794-bf92-64ae50d64acd/300848214"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/f52bb197-55d5-4794-bf92-64ae50d64acd/300862436"
       },
       "priority": "Seguiment",
       "tags": [
@@ -73585,14 +73585,14 @@
           "Adjudicació publicada"
         ],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/f52bb197-55d5-4794-bf92-64ae50d64acd/300848214"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/f52bb197-55d5-4794-bf92-64ae50d64acd/300862436"
         }
       },
       "signals": {
         "count": 0,
         "labels": [],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/f52bb197-55d5-4794-bf92-64ae50d64acd/300848214"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/f52bb197-55d5-4794-bf92-64ae50d64acd/300862436"
         }
       },
       "programmed": {
@@ -81531,47 +81531,6 @@
       "incumbent": null
     },
     {
-      "title": "I051500_dinar seminari 03.07.2026_Santiago Sole",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-26271/2026",
-      "cpv": "55000000-0",
-      "amount": 261,
-      "date": "2026-06-26T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "INC805_Inscripció YQIS2026_Arnau Diebra Huertas",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -82255,6 +82214,47 @@
         "title": "Sense títol",
         "amount": null,
         "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300827474"
+      },
+      "incumbent": null
+    },
+    {
+      "title": "El objeto del contrato consiste en la prestación de un servicio de secretaría técnica integral para la identificación, captación, gestión y apoyo a la evaluación de candidaturas de los premios MWCapital Awards 2027 y, en concreto:  1. Tareas de scouting y outreach internacional de candidaturas.  2. Soporte técnico y metodológico al proceso de evaluación de candidaturas.",
+      "organ": "Fundació Barcelona Mobile World Capital Foundation",
+      "scope": "Entitats de l'administració local",
+      "expedient": "A/F202614/S",
+      "cpv": "79411000-8||79419000-4",
+      "amount": 172000,
+      "date": "2026-06-25T16:56:00.000",
+      "status": "adjudicacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bd430b46-6508-46d4-963c-b1470c36d592/300860778"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bd430b46-6508-46d4-963c-b1470c36d592/300860778"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bd430b46-6508-46d4-963c-b1470c36d592/300860778"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bd430b46-6508-46d4-963c-b1470c36d592/300860778"
+        }
+      },
+      "programmed": {
+        "matched": false
       },
       "incumbent": null
     },
@@ -87218,47 +87218,6 @@
       "incumbent": null
     },
     {
-      "title": "ACTES_Coffee recepció guanyadors  Lliga de Debat",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-25407/2026",
-      "cpv": "55000000-0",
-      "amount": 74,
-      "date": "2026-06-25T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "Servei de taxi membre tribunal tesi d#Albert Gallego (Mariola Tortosa)",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -88843,6 +88802,47 @@
       "expedient": "COMPR-25048/2026",
       "cpv": "32000000-3",
       "amount": 30024,
+      "date": "2026-06-23T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Inscripció Tong Li XLVI RSEQ a Activa Congresos",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-25674/2026",
+      "cpv": "",
+      "amount": 28926,
       "date": "2026-06-23T00:00:00.000",
       "status": "licitacio",
       "url": {
@@ -93929,6 +93929,47 @@
       "incumbent": null
     },
     {
+      "title": "Atencions socials IV Jornades Doctorals juny 2026. Filosofia.",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-25060/2026",
+      "cpv": "55000000-0",
+      "amount": 45455,
+      "date": "2026-06-22T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Enviaments MRW juny 2026",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -96492,47 +96533,6 @@
       "expedient": "COMPR-24959/2026",
       "cpv": "79000000-4",
       "amount": 107,
-      "date": "2026-06-22T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "GE514196 AS Dinar Ciències Màster IA-Dret Digital 26/6",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-25416/2026",
-      "cpv": "55000000-0",
-      "amount": 87,
       "date": "2026-06-22T00:00:00.000",
       "status": "licitacio",
       "url": {
@@ -109523,6 +109523,47 @@
       "incumbent": null
     },
     {
+      "title": "Inscripció Alex Kamande/Yimin Lei XLVI RSEQ a Activa Congresos",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-24449/2026",
+      "cpv": "80000000-4",
+      "amount": 57852,
+      "date": "2026-06-16T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "ORDINADOR HOMOLOGAT RECOMENDAT SOBRETAULA",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -116280,47 +116321,6 @@
       "incumbent": null
     },
     {
-      "title": "20260611_Aramark Aigües (Jornada Qualitat)",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-23581/2026",
-      "cpv": "55000000-0",
-      "amount": 165,
-      "date": "2026-06-15T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "Quota Associacio Rosa Sensat Universitat Amiga - 2026",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -116485,6 +116485,47 @@
       "incumbent": null
     },
     {
+      "title": "SERVEI DE RESTAURACIÓ - DINAR DE TREBALL AMB L’AJUNTAMENT DE LLEIDA.",
+      "organ": "Ajuntament de Mollerussa",
+      "scope": "Entitats de l'administració local",
+      "expedient": "1403-217-2016",
+      "cpv": "55100000-1",
+      "amount": null,
+      "date": "2026-06-15T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "NETEJA PLATJA PISCINA ESTIU",
       "organ": "Ajuntament de Mollerussa",
       "scope": "Entitats de l'administració local",
@@ -116577,47 +116618,6 @@
       "scope": "Entitats de l'administració local",
       "expedient": "1431-155-2026",
       "cpv": "31532910-6",
-      "amount": null,
-      "date": "2026-06-15T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "SERVEI DE RESTAURACIÓ - DINAR DE TREBALL AMB L’AJUNTAMENT DE LLEIDA.",
-      "organ": "Ajuntament de Mollerussa",
-      "scope": "Entitats de l'administració local",
-      "expedient": "1403-217-2016",
-      "cpv": "55100000-1",
       "amount": null,
       "date": "2026-06-15T00:00:00.000",
       "status": "licitacio",
@@ -126649,6 +126649,47 @@
       "incumbent": null
     },
     {
+      "title": "assegurança per climatologia i causes de força major",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/448",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-06-11T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Actuació Arjau a la 59ª Cantada d´havaneres de Calella de Palafrugell",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -126863,47 +126904,6 @@
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
       "expedient": "2026/442",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-06-11T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "assegurança per climatologia i causes de força major",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/448",
       "cpv": "",
       "amount": null,
       "date": "2026-06-11T00:00:00.000",
@@ -128044,6 +128044,47 @@
         "labels": [],
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/7ee8a2cf-5f96-409b-b53b-f47913cab14e/300863349"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Inscripció E.Carolina Hagemann i Matilda Kraft XLVI RSEQ a Activa Congres.",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-23874/2026",
+      "cpv": "80000000-4",
+      "amount": 57852,
+      "date": "2026-06-10T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
         }
       },
       "programmed": {
@@ -130552,11 +130593,11 @@
       "incumbent": null
     },
     {
-      "title": "GE700319 SENC Quota soci Roser Masgrau CB",
+      "title": "VET_ATENCIONS SOCIALS_Menús Veterinària_E&T DOG MODULE FOR PERSONNEL RESP",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
-      "expedient": "COMPR-23981/2026",
-      "cpv": "98000000-3",
+      "expedient": "COMPR-24027/2026",
+      "cpv": "55000000-0",
       "amount": 90,
       "date": "2026-06-10T00:00:00.000",
       "status": "licitacio",
@@ -130593,11 +130634,11 @@
       "incumbent": null
     },
     {
-      "title": "VET_ATENCIONS SOCIALS_Menús Veterinària_E&T DOG MODULE FOR PERSONNEL RESP",
+      "title": "GE700319 SENC Quota soci Roser Masgrau CB",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
-      "expedient": "COMPR-24027/2026",
-      "cpv": "55000000-0",
+      "expedient": "COMPR-23981/2026",
+      "cpv": "98000000-3",
       "amount": 90,
       "date": "2026-06-10T00:00:00.000",
       "status": "licitacio",
@@ -131099,15 +131140,15 @@
       "organ": "Mancomunitat Intermunicipal Voluntària La Plana",
       "scope": "Entitats de l'administració local",
       "expedient": "X2026000356",
-      "cpv": "90910000-9||90920000-2||90919200-4||90911200-8||90919000-2",
+      "cpv": "90910000-9||90911200-8||90919200-4||90919000-2||90920000-2",
       "amount": 6192000,
       "date": "2026-06-09T12:06:00.000",
       "status": "avaluacio",
       "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/089063df-561d-4081-82fc-878eb8216f57/300825836"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/089063df-561d-4081-82fc-878eb8216f57/300815690"
       },
       "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/089063df-561d-4081-82fc-878eb8216f57/300825836"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/089063df-561d-4081-82fc-878eb8216f57/300815690"
       },
       "priority": "Seguiment",
       "tags": [
@@ -131120,14 +131161,14 @@
           "En avaluació"
         ],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/089063df-561d-4081-82fc-878eb8216f57/300825836"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/089063df-561d-4081-82fc-878eb8216f57/300815690"
         }
       },
       "signals": {
         "count": 0,
         "labels": [],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/089063df-561d-4081-82fc-878eb8216f57/300825836"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/089063df-561d-4081-82fc-878eb8216f57/300815690"
         }
       },
       "programmed": {
@@ -131135,7 +131176,7 @@
         "title": "Servei de neteja de les dependències i edificis",
         "amount": null,
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/089063df-561d-4081-82fc-878eb8216f57/300825836"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/089063df-561d-4081-82fc-878eb8216f57/300815690"
         }
       },
       "incumbent": null
@@ -137185,6 +137226,47 @@
       "incumbent": null
     },
     {
+      "title": "Inscripció Silvia Mena i Anna Pozzobon XLVI RSEQ a Activa Congresos",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-23265/2026",
+      "cpv": "80000000-4",
+      "amount": 61984,
+      "date": "2026-06-08T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Ordinador sobretaula homologat i monitor homologat",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -143118,6 +143200,47 @@
       "incumbent": null
     },
     {
+      "title": "Càtering jornada seguiments Doctorat DTEPS 11/6/26",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-22868/2026",
+      "cpv": "55000000-0",
+      "amount": 41895,
+      "date": "2026-06-05T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Creació d#un prototip Càtedra UAB-Cruïlla",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -146667,10 +146790,10 @@
       "date": "2026-06-04T11:56:00.000",
       "status": "formalitzacio",
       "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/9ccaafd9-9423-4214-ad25-75e586b75cbc/300847882"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/9ccaafd9-9423-4214-ad25-75e586b75cbc/300862920"
       },
       "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/9ccaafd9-9423-4214-ad25-75e586b75cbc/300847882"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/9ccaafd9-9423-4214-ad25-75e586b75cbc/300862920"
       },
       "priority": "Seguiment",
       "tags": [
@@ -146683,14 +146806,14 @@
           "Contracte formalitzat"
         ],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/9ccaafd9-9423-4214-ad25-75e586b75cbc/300847882"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/9ccaafd9-9423-4214-ad25-75e586b75cbc/300862920"
         }
       },
       "signals": {
         "count": 0,
         "labels": [],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/9ccaafd9-9423-4214-ad25-75e586b75cbc/300847882"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/9ccaafd9-9423-4214-ad25-75e586b75cbc/300862920"
         }
       },
       "programmed": {
@@ -158117,6 +158240,47 @@
       "incumbent": null
     },
     {
+      "title": "Inscripcions Maria Garrido i Marta Sendra XLVI RSEQ a Activa Congresos",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-22740/2026",
+      "cpv": "80000000-4",
+      "amount": 53719,
+      "date": "2026-06-02T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "OPTICA.UNIV_ULLERES META_C.TENA",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -161350,88 +161514,6 @@
       "incumbent": null
     },
     {
-      "title": "Dinar pels 3 conferenciants al Workshop del dimecres 3 de Juny de 2026",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-22448/2026",
-      "cpv": "55000000-0",
-      "amount": 48,
-      "date": "2026-06-02T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Atencions Socials stage juny_26 del curs fonaments de disseny i estadística",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-22462/2026",
-      "cpv": "55000000-0",
-      "amount": 40,
-      "date": "2026-06-02T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "Lloguer de sala 2 a Can Carol (6h)",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -161821,6 +161903,52 @@
         "amount": null,
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/a6da5757-c837-4ff9-bfa8-fe652fadc764/300861558"
+        }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Obres compreses al projecte executiu per a la construcció de cinc parcs d'esbarjo canins al municipi de Vila-seca.",
+      "organ": "Ajuntament de Vila-seca",
+      "scope": "Entitats de l'administració local",
+      "expedient": "3946/2026",
+      "cpv": "45000000-7",
+      "amount": 76467998,
+      "date": "2026-06-01T10:40:00.000",
+      "status": "adjudicacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/be5e8079-650f-4bf0-ae45-e1ebb11ca172/300860633"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/be5e8079-650f-4bf0-ae45-e1ebb11ca172/300860633"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/be5e8079-650f-4bf0-ae45-e1ebb11ca172/300860633"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/be5e8079-650f-4bf0-ae45-e1ebb11ca172/300860633"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Projecte basic i executiu obres d'espais annexes al DA",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/be5e8079-650f-4bf0-ae45-e1ebb11ca172/300860633"
         }
       },
       "incumbent": null
@@ -164634,47 +164762,6 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/08a68971-8b41-4066-90e5-928d60b3987e/300861411"
         }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Aigües Jornades Ocupacionals del 19 de maig",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-20894/2026",
-      "cpv": "55000000-0",
-      "amount": 792,
-      "date": "2026-06-01T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
       },
       "incumbent": null
     },
@@ -175652,6 +175739,47 @@
       "incumbent": null
     },
     {
+      "title": "servei tècnic presencial grups electrogens L'Analògica, Desenvelat i Fi de Festa de Festes de Primav",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/389",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-05-28T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Sardanes Cobla Foment del Montgrí per la Festa Major de Llofriu, el diumenge 23 d'agost de 2026",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -175697,47 +175825,6 @@
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
       "expedient": "2026/385",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-05-28T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "servei tècnic presencial grups electrogens L'Analògica, Desenvelat i Fi de Festa de Festes de Primav",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/389",
       "cpv": "",
       "amount": null,
       "date": "2026-05-28T00:00:00.000",
@@ -177219,11 +177306,11 @@
       "incumbent": null
     },
     {
-      "title": "CONTRACTACIÓ BUSTIADA PROGRAMA PISCINA 2026",
+      "title": "CONTRACTACIÓ BUSTIADA PROGRAMA ANOIA FOLK 2026",
       "organ": "Ajuntament de la Pobla de Claramunt",
       "scope": "Entitats de l'administració local",
-      "expedient": "2026_1079",
-      "cpv": "79954000-6",
+      "expedient": "2026_1078",
+      "cpv": "79953000-9",
       "amount": 33275,
       "date": "2026-05-27T00:00:00.000",
       "status": "licitacio",
@@ -177260,11 +177347,11 @@
       "incumbent": null
     },
     {
-      "title": "CONTRACTACIÓ BUSTIADA PROGRAMA ANOIA FOLK 2026",
+      "title": "CONTRACTACIÓ BUSTIADA PROGRAMA PISCINA 2026",
       "organ": "Ajuntament de la Pobla de Claramunt",
       "scope": "Entitats de l'administració local",
-      "expedient": "2026_1078",
-      "cpv": "79953000-9",
+      "expedient": "2026_1079",
+      "cpv": "79954000-6",
       "amount": 33275,
       "date": "2026-05-27T00:00:00.000",
       "status": "licitacio",
@@ -180498,14 +180585,14 @@
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "HM-2026-SDA3-CE1",
       "cpv": "33600000-6",
-      "amount": 50290906,
+      "amount": 69080497,
       "date": "2026-05-26T10:40:00.000",
       "status": "adjudicacio",
       "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/be085f9b-4022-45c3-b89d-6f691b370f66/300858349"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/be085f9b-4022-45c3-b89d-6f691b370f66/300860705"
       },
       "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/be085f9b-4022-45c3-b89d-6f691b370f66/300858349"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/be085f9b-4022-45c3-b89d-6f691b370f66/300860705"
       },
       "priority": "Seguiment",
       "tags": [
@@ -180518,14 +180605,14 @@
           "Adjudicació publicada"
         ],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/be085f9b-4022-45c3-b89d-6f691b370f66/300858349"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/be085f9b-4022-45c3-b89d-6f691b370f66/300860705"
         }
       },
       "signals": {
         "count": 0,
         "labels": [],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/be085f9b-4022-45c3-b89d-6f691b370f66/300858349"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/be085f9b-4022-45c3-b89d-6f691b370f66/300860705"
         }
       },
       "programmed": {
@@ -180533,7 +180620,7 @@
         "title": "Acord marc del subministrament de medicaments I (exclusius)",
         "amount": null,
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/be085f9b-4022-45c3-b89d-6f691b370f66/300858349"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/be085f9b-4022-45c3-b89d-6f691b370f66/300860705"
         }
       },
       "incumbent": null
@@ -191286,7 +191373,7 @@
       "scope": "Entitats de l'administració local",
       "expedient": "2026/913",
       "cpv": "39000000-2",
-      "amount": 55613411,
+      "amount": 2814984,
       "date": "2026-05-21T09:36:00.000",
       "status": "adjudicacio",
       "url": {
@@ -196819,6 +196906,47 @@
       "incumbent": null
     },
     {
+      "title": "actuació de l'artista Coco el dia 7 de juny en el concert de fi de festa de les Festes de Primavera",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/380",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-05-21T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Subministrament i instal.lació de graderies al pavelló poliesportiu, per les fases d'ascens a 1a nac",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -197199,47 +197327,6 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
         }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "actuació de l'artista Coco el dia 7 de juny en el concert de fi de festa de les Festes de Primavera",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/380",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-05-21T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": false
       },
       "incumbent": null
     },
@@ -211483,7 +211570,7 @@
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
       "expedient": "EF21-26V2",
       "cpv": "24450000-3",
-      "amount": 46545455,
+      "amount": 18181818,
       "date": "2026-05-15T08:10:00.000",
       "status": "formalitzacio",
       "url": {
@@ -219685,6 +219772,47 @@
       "incumbent": null
     },
     {
+      "title": "GB517577 Coffe break 14-15/5 A.Pastor Jornades estiu",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-19405/2026",
+      "cpv": "55000000-0",
+      "amount": 593,
+      "date": "2026-05-14T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "EDO_GN515518_DA_Caixer_Inscrip. GIon AHE 2026",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -221427,6 +221555,47 @@
       "incumbent": null
     },
     {
+      "title": "SUBMINISTRAMENT DE SOBRES PEL JUTJAT DE PAU",
+      "organ": "Ajuntament de Mollerussa",
+      "scope": "Entitats de l'administració local",
+      "expedient": "1431-99-2026",
+      "cpv": "30199710-0",
+      "amount": null,
+      "date": "2026-05-14T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "PECES RENCANVI CADIRA MINUSVALIDS POLIESPORTIU",
       "organ": "Ajuntament de Mollerussa",
       "scope": "Entitats de l'administració local",
@@ -221510,47 +221679,6 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
         }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "SUBMINISTRAMENT DE SOBRES PEL JUTJAT DE PAU",
-      "organ": "Ajuntament de Mollerussa",
-      "scope": "Entitats de l'administració local",
-      "expedient": "1431-99-2026",
-      "cpv": "30199710-0",
-      "amount": null,
-      "date": "2026-05-14T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/fa9bd277-edaa-431e-99bc-cc703ff5d019/300659815"
-        }
-      },
-      "programmed": {
-        "matched": false
       },
       "incumbent": null
     },
@@ -222773,7 +222901,7 @@
       "scope": "Entitats de l'administració local",
       "expedient": "2026-SUB-OH-05",
       "cpv": "31600000-2",
-      "amount": 517480,
+      "amount": 148720,
       "date": "2026-05-13T04:26:00.000",
       "status": "adjudicacio",
       "url": {
@@ -224776,6 +224904,47 @@
       "incumbent": null
     },
     {
+      "title": "C011300- Atencions Socials audiències de la CAE 12-13-14 maig",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-19247/2026",
+      "cpv": "55000000-0",
+      "amount": 5719,
+      "date": "2026-05-13T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "ORD. PORTÀTIL APPLE MHFH4Y/A MACBOOK NEO A18 PRO",
       "organ": "Corporació Catalana de Mitjans Audiovisuals, SA (CCMA, SA)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -225637,10 +225806,10 @@
       "incumbent": null
     },
     {
-      "title": "AUTOCARES ALEJANDRO - E. MARCO GERARD LARA",
+      "title": "AUTOCARES ALEJANDRO - D. GONZALEZ",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
-      "expedient": "COMPR-19205/2026",
+      "expedient": "COMPR-19151/2026",
       "cpv": "60130000-8",
       "amount": 1250,
       "date": "2026-05-13T00:00:00.000",
@@ -225678,10 +225847,10 @@
       "incumbent": null
     },
     {
-      "title": "AUTOCARES ALEJANDRO - D. GONZALEZ",
+      "title": "AUTOCARES ALEJANDRO - E. MARCO GERARD LARA",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
-      "expedient": "COMPR-19151/2026",
+      "expedient": "COMPR-19205/2026",
       "cpv": "60130000-8",
       "amount": 1250,
       "date": "2026-05-13T00:00:00.000",
@@ -226586,47 +226755,6 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/08a68971-8b41-4066-90e5-928d60b3987e/300861411"
         }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "^AASS Coffee Break i dinar Taller COMPASS 12.05.26",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-19188/2026",
-      "cpv": "55000000-0",
-      "amount": 239,
-      "date": "2026-05-13T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
       },
       "incumbent": null
     },
@@ -228100,8 +228228,8 @@
       "organ": "Diputació de Barcelona",
       "scope": "Entitats de l'administració local",
       "expedient": "2026/0000961",
-      "cpv": "71313000-5||90712000-1||90712100-2||90711300-7||90711000-4||90710000-7",
-      "amount": 2479339,
+      "cpv": "71313000-5||90712100-2||90712000-1||90711300-7||90711000-4||90710000-7",
+      "amount": 826446,
       "date": "2026-05-12T10:28:00.000",
       "status": "adjudicacio",
       "url": {
@@ -231390,6 +231518,52 @@
       },
       "programmed": {
         "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "SIDI_2ºGrups d'Ajuda Mútua per millorar el benestar emocional",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-19295/2026",
+      "cpv": "80000000-4",
+      "amount": 1000,
+      "date": "2026-05-12T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Servei programa d'ajuda emocional",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
       },
       "incumbent": null
     },
@@ -240543,47 +240717,6 @@
       "incumbent": null
     },
     {
-      "title": "ARAMARK - OSCAR MAURICIO (ReWoW)",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-18103/2026",
-      "cpv": "55000000-0",
-      "amount": 31629,
-      "date": "2026-05-08T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "DIRECCIÓ D'OBRA I COORDINACIÓ DE SEGURETAT I SALUT DE LA REFORMA DE L'ENLLUMENAT PÚBLIC DEL BARRI SANT ANDREU",
       "organ": "Ajuntament de la Pobla de Claramunt",
       "scope": "Entitats de l'administració local",
@@ -243731,47 +243864,6 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
         }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Atencions socials defensa de tesi Joan Terré Boliart 17/04/2026",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-18424/2026",
-      "cpv": "63000000-9",
-      "amount": 32,
-      "date": "2026-05-08T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
       },
       "incumbent": null
     },
@@ -248581,6 +248673,47 @@
       "incumbent": null
     },
     {
+      "title": "Elaboració i muntatge de plafons informatius a les platges",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/325",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-05-07T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Bales de palla per a la Baixada de carretons (30/05/2026)",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -248705,47 +248838,6 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
         }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Elaboració i muntatge de plafons informatius a les platges",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/325",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-05-07T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": false
       },
       "incumbent": null
     },
@@ -249908,47 +250000,6 @@
       "expedient": "COMPR-17541/2026",
       "cpv": "60130000-8",
       "amount": 112273,
-      "date": "2026-05-06T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Dinars Summer School a Aramark",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-17542/2026",
-      "cpv": "55000000-0",
-      "amount": 93215,
       "date": "2026-05-06T00:00:00.000",
       "status": "licitacio",
       "url": {
@@ -253673,47 +253724,6 @@
       "expedient": "COMPR-18185/2026",
       "cpv": "22000000-0",
       "amount": 500,
-      "date": "2026-05-06T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Atencions_Socials_Dinar_EUGLOB_3pax_07/05/26",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-18393/2026",
-      "cpv": "55000000-0",
-      "amount": 435,
       "date": "2026-05-06T00:00:00.000",
       "status": "licitacio",
       "url": {
@@ -272741,6 +272751,52 @@
       "incumbent": null
     },
     {
+      "title": "SIDI_Grups d'Ajuda Mútua per millorar el benestar emocional",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-17468/2026",
+      "cpv": "80000000-4",
+      "amount": 1000,
+      "date": "2026-04-29T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Servei programa d'ajuda emocional",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "VERTICE SUR- OSCAR ROMERO, YERKO FREDES",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -281426,47 +281482,6 @@
       "expedient": "COMPR-16920/2026",
       "cpv": "79000000-4",
       "amount": 4156,
-      "date": "2026-04-27T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "AIGUES JORANDES D'INNOVACIÓ DOCENT",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-16344/2026",
-      "cpv": "55000000-0",
-      "amount": 4125,
       "date": "2026-04-27T00:00:00.000",
       "status": "licitacio",
       "url": {
@@ -295807,47 +295822,6 @@
       "expedient": "COMPR-16227/2026",
       "cpv": "55000000-0",
       "amount": 438,
-      "date": "2026-04-22T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Atencions_Socials_Dinar_EUGLOB_3pax_23/4/26",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-15562/2026",
-      "cpv": "55000000-0",
-      "amount": 435,
       "date": "2026-04-22T00:00:00.000",
       "status": "licitacio",
       "url": {
@@ -312194,47 +312168,6 @@
       "incumbent": null
     },
     {
-      "title": "Dinar Yael Díaz Acha_Atencions socials CORNERSTONES",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-13803/2026",
-      "cpv": "55000000-0",
-      "amount": 1145,
-      "date": "2026-04-16T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "Missatger recollida doc escoles",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -324646,6 +324579,47 @@
       "incumbent": null
     },
     {
+      "title": "DIN-ARAMARK dinars self sectorial Psicologia",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-14502/2026",
+      "cpv": "55000000-0",
+      "amount": 5611,
+      "date": "2026-04-13T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Factura DHL març BCNR002035615",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -330072,47 +330046,6 @@
       "expedient": "COMPR-13937/2026",
       "cpv": "80000000-4",
       "amount": 2686,
-      "date": "2026-04-10T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "BRUFAL J., Atencions socials Congrés ABRIL (Copes) - ARAMARK",
-      "organ": "Universitat Autònoma de Barcelona",
-      "scope": "Universitats",
-      "expedient": "COMPR-13483/2026",
-      "cpv": "55000000-0",
-      "amount": 2479,
       "date": "2026-04-10T00:00:00.000",
       "status": "licitacio",
       "url": {
@@ -337361,6 +337294,47 @@
       "expedient": "COMPR-14057/2026",
       "cpv": "80000000-4",
       "amount": 450,
+      "date": "2026-04-09T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Coffebreak 4th MERC Conference 13/14 abril",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-13250/2026",
+      "cpv": "55000000-0",
+      "amount": 444,
       "date": "2026-04-09T00:00:00.000",
       "status": "licitacio",
       "url": {
@@ -347786,6 +347760,47 @@
       "incumbent": null
     },
     {
+      "title": "Servei d'aperitiu 40 pax jornada Caixa Enginyers 18/03/2026",
+      "organ": "Universitat Autònoma de Barcelona",
+      "scope": "Universitats",
+      "expedient": "COMPR-12121/2026",
+      "cpv": "55000000-0",
+      "amount": 512,
+      "date": "2026-04-07T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/bae9cc56-41c6-4266-b7ac-7287e5583474/300860286"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Segmentació digital de diferents parts d'un gos",
       "organ": "Universitat Autònoma de Barcelona",
       "scope": "Universitats",
@@ -348565,11 +348580,11 @@
       "incumbent": null
     },
     {
-      "title": "TALLERS DE TEATRE PER A JOVES",
+      "title": "SERVEI DE RESTAURACIÓ PER AL DINAR DE TREBALL DELS MEMBRES DEL JURAT DELS PREMIS LITERARIS DE MOLLERUSSA.",
       "organ": "Ajuntament de Mollerussa",
       "scope": "Entitats de l'administració local",
-      "expedient": "1403-118-2026",
-      "cpv": "80500000-9",
+      "expedient": "1403-114-2026",
+      "cpv": "",
       "amount": null,
       "date": "2026-04-07T00:00:00.000",
       "status": "licitacio",
@@ -348606,11 +348621,11 @@
       "incumbent": null
     },
     {
-      "title": "SERVEI DE RESTAURACIÓ PER AL DINAR DE TREBALL DELS MEMBRES DEL JURAT DELS PREMIS LITERARIS DE MOLLERUSSA.",
+      "title": "TALLERS DE TEATRE PER A JOVES",
       "organ": "Ajuntament de Mollerussa",
       "scope": "Entitats de l'administració local",
-      "expedient": "1403-114-2026",
-      "cpv": "",
+      "expedient": "1403-118-2026",
+      "cpv": "80500000-9",
       "amount": null,
       "date": "2026-04-07T00:00:00.000",
       "status": "licitacio",
@@ -349585,6 +349600,52 @@
       "incumbent": null
     },
     {
+      "title": "Subministrament i instal·lacio CGP a l'edifici annex Ajuntament",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/228",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-04-02T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Subministrament i instal·lació de sistema de megafonia",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "Espectacle L'Y -ànsia per volar de circ en bicicleta el dia 3 de maig 2026 per Flors i Violes",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -349708,6 +349769,52 @@
       "incumbent": null
     },
     {
+      "title": "gRUPS ELECTRÒGENS PER LA fESTA mAJOR",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/225",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-04-02T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "**Subministrament de combustible (vehicles, grups electrògens i bomba contra incendis)",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "Substitució d'una claraboia a la sala polivalent de la Biblioteca per una altra amb més sòcol (més a",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -349786,52 +349893,6 @@
       },
       "programmed": {
         "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Subministrament i instal·lacio CGP a l'edifici annex Ajuntament",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/228",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-04-02T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Subministrament i instal·lació de sistema de megafonia",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
       },
       "incumbent": null
     },
@@ -350165,52 +350226,6 @@
       },
       "programmed": {
         "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "gRUPS ELECTRÒGENS PER LA fESTA mAJOR",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/225",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-04-02T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "**Subministrament de combustible (vehicles, grups electrògens i bomba contra incendis)",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
       },
       "incumbent": null
     },
@@ -357633,6 +357648,47 @@
       "incumbent": null
     },
     {
+      "title": "Serveis de neteja per a Festa a la Nit.",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/207",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-03-26T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Cabines modulars de bany, servei de neteja diari",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -357924,47 +357980,6 @@
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
       "expedient": "2026/202",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-03-26T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Serveis de neteja per a Festa a la Nit.",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/207",
       "cpv": "",
       "amount": null,
       "date": "2026-03-26T00:00:00.000",
@@ -364363,6 +364378,93 @@
       "incumbent": null
     },
     {
+      "title": "Manteniment centraletes ajuntament i policia",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/194",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-03-19T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Desenvolupament plana web florsivioles.cat",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/178",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-03-19T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Desenvolupament web",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "Canvi de compressor avariat a l'equip de climatització de les Escoles Velles de Llofriu",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -364646,93 +364748,6 @@
       },
       "programmed": {
         "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Manteniment centraletes ajuntament i policia",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/194",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-03-19T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Desenvolupament plana web florsivioles.cat",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/178",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-03-19T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Desenvolupament web",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
       },
       "incumbent": null
     },
@@ -368782,6 +368797,139 @@
       "incumbent": null
     },
     {
+      "title": "Treballs a realitzar per solucionar deficiències trobades en inspecció de baixa tensió, per Organis",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/146",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-03-12T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Manteniment de baixa tensió",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Treballs a realitzar per solucionar deficiències trobades en inspecció de baix tensió al Teatre Muni",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/147",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-03-12T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Treballs a realitzar per solucionar deficiències trobades en inspecció de baixa tensió a l'Arxiu de",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/148",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-03-12T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Manteniment de baixa tensió",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "Treballs compl. projecció i delinació proj. accessos i connexions camí ronda Tamariu Cala Pedrosa",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -368984,139 +369132,6 @@
       "programmed": {
         "matched": true,
         "title": "Manteniment de les gòndoles dels edificis de la UB",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Treballs a realitzar per solucionar deficiències trobades en inspecció de baixa tensió, per Organis",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/146",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-03-12T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Manteniment de baixa tensió",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Treballs a realitzar per solucionar deficiències trobades en inspecció de baix tensió al Teatre Muni",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/147",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-03-12T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Treballs a realitzar per solucionar deficiències trobades en inspecció de baixa tensió a l'Arxiu de",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/148",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-03-12T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Manteniment de baixa tensió",
         "amount": null,
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
@@ -370886,14 +370901,14 @@
       "scope": "Entitats de l'administració local",
       "expedient": "2026/007 (05/2026/CONT)",
       "cpv": "79100000-5",
-      "amount": 1136364,
+      "amount": 3099175,
       "date": "2026-03-10T13:02:00.000",
       "status": "adjudicacio",
       "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/948486fe-500d-4aa3-b127-b0e60e482921/300849087"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/948486fe-500d-4aa3-b127-b0e60e482921/300864698"
       },
       "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/948486fe-500d-4aa3-b127-b0e60e482921/300849087"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/948486fe-500d-4aa3-b127-b0e60e482921/300864698"
       },
       "priority": "Seguiment",
       "tags": [
@@ -370906,14 +370921,14 @@
           "Adjudicació publicada"
         ],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/948486fe-500d-4aa3-b127-b0e60e482921/300849087"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/948486fe-500d-4aa3-b127-b0e60e482921/300864698"
         }
       },
       "signals": {
         "count": 0,
         "labels": [],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/948486fe-500d-4aa3-b127-b0e60e482921/300849087"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/948486fe-500d-4aa3-b127-b0e60e482921/300864698"
         }
       },
       "programmed": {
@@ -370921,7 +370936,7 @@
         "title": "Contractació de serveis professionals d’assessorament jurídic i del despatx d’advocats.",
         "amount": null,
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/948486fe-500d-4aa3-b127-b0e60e482921/300849087"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/948486fe-500d-4aa3-b127-b0e60e482921/300864698"
         }
       },
       "incumbent": null
@@ -372893,6 +372908,52 @@
       "incumbent": null
     },
     {
+      "title": "Despeses de cobrament per TPV de la venda d'entrades Havaneres 2026.",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/130",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-03-05T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Eina de tiqueting de venda d'entrades",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "Intervenció mediadora entre l'Ajuntament de Palafrugell i un empleat públic",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -372975,6 +373036,47 @@
       "incumbent": null
     },
     {
+      "title": "Subministrament mocadors Cantada Havaneres Calella de Palafrugell",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/128",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-03-05T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Instal·lació interruptors automàtics de sobretensions a l'escola Torres Jonama",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -373013,52 +373115,6 @@
       "programmed": {
         "matched": true,
         "title": "Subministrament i instal·lació de sistema de megafonia",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Despeses de cobrament per TPV de la venda d'entrades Havaneres 2026.",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/130",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-03-05T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Eina de tiqueting de venda d'entrades",
         "amount": null,
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
@@ -373235,47 +373291,6 @@
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
       "expedient": "2026/86",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-03-05T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Subministrament mocadors Cantada Havaneres Calella de Palafrugell",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/128",
       "cpv": "",
       "amount": null,
       "date": "2026-03-05T00:00:00.000",
@@ -374757,7 +374772,7 @@
       "scope": "Entitats de l'administració local",
       "expedient": "2025/0026621",
       "cpv": "85312300-2",
-      "amount": 103194,
+      "amount": 1287468,
       "date": "2026-02-27T09:34:00.000",
       "status": "adjudicacio",
       "url": {
@@ -376375,6 +376390,47 @@
       "incumbent": null
     },
     {
+      "title": "3 renders fotorrealistes exteriors proposta disseny Pla Millora Urbana PMU a1.5 Energia",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/114",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-02-26T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Panells informatius camí de ronda de Tamariu a Cala Pedrosa",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -376420,47 +376476,6 @@
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
       "expedient": "2026/97",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-02-26T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "3 renders fotorrealistes exteriors proposta disseny Pla Millora Urbana PMU a1.5 Energia",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/114",
       "cpv": "",
       "amount": null,
       "date": "2026-02-26T00:00:00.000",
@@ -378746,47 +378761,6 @@
       "incumbent": null
     },
     {
-      "title": "Muntatge i desmuntatge de taules i cadires per la Jornada d'Oportunitats Laborals a la Bòbila.",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/88",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-02-19T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "Subscripció a la base de dades El Consultor Contratación Pública 360 pro",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -378875,6 +378849,47 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
         }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Muntatge i desmuntatge de taules i cadires per la Jornada d'Oportunitats Laborals a la Bòbila.",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/88",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-02-19T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": false
       },
       "incumbent": null
     },
@@ -385490,6 +385505,47 @@
       "incumbent": null
     },
     {
+      "title": "flyers i targetes troquelades Palafrugell Plus",
+      "organ": "Ajuntament de Palafrugell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/23",
+      "cpv": "",
+      "amount": null,
+      "date": "2026-02-05T00:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Actualització expedient",
+        "recent_short": [
+          "Actualització expedient"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Revisió i reparacio mècanica carrosses reis 2026",
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
@@ -385576,47 +385632,6 @@
       "organ": "Ajuntament de Palafrugell",
       "scope": "Entitats de l'administració local",
       "expedient": "2026/19",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-02-05T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7a2d50f5-c6d8-4d87-814c-4697837025e6/300862515"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "flyers i targetes troquelades Palafrugell Plus",
-      "organ": "Ajuntament de Palafrugell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "2026/23",
       "cpv": "",
       "amount": null,
       "date": "2026-02-05T00:00:00.000",
