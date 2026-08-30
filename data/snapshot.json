@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T06:37:57.086Z",
+    "generated_at": "2026-08-30T12:50:54.131Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
-    "items": 12914,
+    "items": 12915,
     "sources": [
       "PSCP publicacions",
       "PSCP execució",
@@ -52272,7 +52272,7 @@
         "licitacio"
       ],
       "alerts": {
-        "count": 3,
+        "count": 1,
         "latest_short": "Licitació oberta",
         "recent_short": [
           "Licitació oberta"
@@ -66491,6 +66491,52 @@
       },
       "programmed": {
         "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "servei de Consultoria  Energètica per impulsar la Transició Energètica als equipaments que gestiona la Direcció General de Prevenció, Extinció d'Incendis i Salvaments (en endavant DGPEIS) del Departament d'Interior i Seguretat Pública de la Generalitat de Catalunya, per a l'any 2026.",
+      "organ": "Departament d'Interior i Seguretat Pública",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "IT-2026-435",
+      "cpv": "71314300-5",
+      "amount": 798675,
+      "date": "2026-07-22T12:02:00.000",
+      "status": "avaluacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/d542da0a-1372-45b6-9d9b-cf55bb05cca6/300868937"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/d542da0a-1372-45b6-9d9b-cf55bb05cca6/300868937"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/d542da0a-1372-45b6-9d9b-cf55bb05cca6/300868937"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/d542da0a-1372-45b6-9d9b-cf55bb05cca6/300868937"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Servei de consultoria tècnica i investigació especialitzada en Seguretat",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/d542da0a-1372-45b6-9d9b-cf55bb05cca6/300868937"
+        }
       },
       "incumbent": null
     },
