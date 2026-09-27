@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T01:24:12.530Z",
+    "generated_at": "2026-09-27T08:05:01.002Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
-    "items": 12666,
+    "items": 12664,
     "sources": [
       "PSCP publicacions",
       "PSCP execució",
@@ -19092,6 +19092,98 @@
       "incumbent": null
     },
     {
+      "title": "Adquisició de l'obra Màquina d'escriure (1979), de Pere Noguera, instal·lació de màquina d'escriure, tampons i llibres coberts de fang, per formar part de la Col·lecció Nacional d'Art Contemporani",
+      "organ": "Departament de Cultura",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CU-2026-1605",
+      "cpv": "92311000-4",
+      "amount": 22100,
+      "date": "2026-09-26T19:04:00.000",
+      "status": "adjudicacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/cb9523ca-3790-4498-a8f9-4cfac2de4850/300892588"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/cb9523ca-3790-4498-a8f9-4cfac2de4850/300892588"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/cb9523ca-3790-4498-a8f9-4cfac2de4850/300892588"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/cb9523ca-3790-4498-a8f9-4cfac2de4850/300892588"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Obra instal·lació Capçals Hospitalització",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/cb9523ca-3790-4498-a8f9-4cfac2de4850/300892588"
+        }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contracte de concessió de serveis d’instal·lació, assistència tècnica i col·laboració del control de seguretat viària per a la instal·lació de dos cinemòmetres per ones d’efecte doppler, 5 punts de control amb lectors de matrícules i 2 punts de càmera ambient",
+      "organ": "Ajuntament de la Seu d'Urgell",
+      "scope": "Entitats de l'administració local",
+      "expedient": "Expedient 1547/2026",
+      "cpv": "75110000-0||32323500-8||45314000-1||45316210-0||35120000-1||34923000-3",
+      "amount": 65000002,
+      "date": "2026-09-26T09:56:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/c45b40b8-f10b-4786-b50c-9a0b34188fa7/300892554"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/c45b40b8-f10b-4786-b50c-9a0b34188fa7/300892554"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Licitació oberta",
+        "recent_short": [
+          "Licitació oberta"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c45b40b8-f10b-4786-b50c-9a0b34188fa7/300892554"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c45b40b8-f10b-4786-b50c-9a0b34188fa7/300892554"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Subministrament i instal·lació de sistema de megafonia",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c45b40b8-f10b-4786-b50c-9a0b34188fa7/300892554"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "Servei de gestió i processament de fons de diverses procedències: recepció, tractament físic i classificació dins dels diferents dipòsits de la Central de Préstec i Serveis Especials (CePSE) a executar durant el 2027",
       "organ": "Departament de Cultura",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -19472,52 +19564,6 @@
       },
       "programmed": {
         "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Contracte de concessió de serveis d’instal·lació, assistència tècnica i col·laboració del control de seguretat viària per a la instal·lació de dos cinemòmetres per ones d’efecte doppler, 5 punts de control amb lectors de matrícules i 2 punts de càmera ambient",
-      "organ": "Ajuntament de la Seu d'Urgell",
-      "scope": "Entitats de l'administració local",
-      "expedient": "Expedient 1547/2026",
-      "cpv": "75110000-0",
-      "amount": 65000002,
-      "date": "2026-09-25T14:26:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/c45b40b8-f10b-4786-b50c-9a0b34188fa7/300865587"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/c45b40b8-f10b-4786-b50c-9a0b34188fa7/300865587"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Licitació oberta",
-        "recent_short": [
-          "Licitació oberta"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c45b40b8-f10b-4786-b50c-9a0b34188fa7/300865587"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c45b40b8-f10b-4786-b50c-9a0b34188fa7/300865587"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Subministrament i instal·lació de sistema de megafonia",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c45b40b8-f10b-4786-b50c-9a0b34188fa7/300865587"
-        }
       },
       "incumbent": null
     },
@@ -126954,6 +127000,47 @@
       "incumbent": null
     },
     {
+      "title": "servei social bàsic que té com a objectiu general realitzar una tasca preventiva fora de l’horari escolar, que dona suport, estimula i potencia l’estructuració del desenvolupament de la personalitat, la socialització, l’adquisició d’aprenentatges bàsics i l’esbarjo, i compensa les deficiències socioeducatives de les persones ateses mitjançant el treball individual, grupal, la família, el treball en xarxa i amb la comunitat.",
+      "organ": "Consorci de Benestar Social Gironès-Salt",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/5/1403",
+      "cpv": "85311300-5",
+      "amount": 29544122,
+      "date": "2026-07-27T14:48:00.000",
+      "status": "avaluacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/f836c0c0-30ad-4a36-8400-cf0a03e1fc7c/300892551"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/f836c0c0-30ad-4a36-8400-cf0a03e1fc7c/300892551"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 3,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/f836c0c0-30ad-4a36-8400-cf0a03e1fc7c/300892551"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/f836c0c0-30ad-4a36-8400-cf0a03e1fc7c/300892551"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
       "title": "Contracte de prestació de Servei de sistema d’informació geogràfica mitjançant l’eina Giswater desktop per a Terrassa Cicle de l’Aigua, EPEL.",
       "organ": "Terrassa Cicle de l'aigua EPEL",
       "scope": "Entitats de l'administració local",
@@ -158113,6 +158200,93 @@
       "incumbent": null
     },
     {
+      "title": "Constitueix l'objecte del contracte l'execució de la totalitat dels treballs definits al PROJECTE DE MILLORA DEL FERM DE VARIS CARRERS DEL NUCLI DE TALAVERA (CARRER DE LA COSTA, CARRER DEL CASTELL, CARRER DE BAIX I CARRER MAJOR), redactat per l'arquitecte Santiago Gasull Marsans. Els treballs consisteixen en l'enderroc del paviment de formigó existent (amb tall previ amb disc de diamant i demolició amb retroexcavadora amb martell trencador), el rebaix de la subbase per a la formació de la nova caixa de paviment, l'estesa i el piconatge d'una subbase de grava de granulat reciclat de formigó, i l'execució d'un nou paviment de formigó amb fibres d'acer HAF-30/A-3-3/F/20-60/IIb+E de 20 cm de gruix, amb acabat remolinat mecànic amb pols de quars color, incorporant una franja central de 40 cm d'amplada de llambordes ceràmiques clínquer de color vermell de 240x120x60 mm, conformes a la UNE-EN 1344, sobre la superfície total d'actuació d'uns 2.000 m².",
+      "organ": "Ajuntament de Talavera",
+      "scope": "Entitats de l'administració local",
+      "expedient": "57/2026",
+      "cpv": "45233222-1",
+      "amount": 10274558,
+      "date": "2026-07-11T20:48:00.000",
+      "status": "formalitzacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/19f541a1-82e4-4999-9ef6-bcbae5ee7405/300892518"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/19f541a1-82e4-4999-9ef6-bcbae5ee7405/300892518"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "formalitzacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Contracte formalitzat",
+        "recent_short": [
+          "Contracte formalitzat"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/19f541a1-82e4-4999-9ef6-bcbae5ee7405/300892518"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/19f541a1-82e4-4999-9ef6-bcbae5ee7405/300892518"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "L'objecte del contracte és l'execució de les obres de millora del ferm del carrer del Mitg, al nucli de Pavia, i de la plaça de l'Escola, el carrer de la Font i la plaça de la Font, al nucli de Bellmunt, consistents en la substitució de l'actual paviment de formigó, molt degradat, per una nova pavimentació de formigó amb franja central de llamborda, garantint una millor funcionalitat, seguretat i durabilitat de la via pública. CPV: 45233222-1 (treballs de pavimentació i asfaltat). Les obres comprenen: l'enderroc del paviment de formigó existent (de gruix variable, fins a 20 cm), amb tall perimetral previ amb disc de diamant a cada nucli, rebaix de la subbase i gestió dels residus (LER 170101 i 170504) a instal·lació autoritzada; i la formació de la nova secció de ferm, dimensionada per a un trànsit de categoria T42 i una esplanada E2, composta per subbase granular de grava de granulat reciclat de formigó (40-70 mm) i capa de paviment de formigó amb fibres d'acer HAF-30/A-3-3/F/20-60/IIb+E de 20 cm de gruix amb remolinat mecànic i addició de 4 kg/m² de pols de quars de color. Les dues actuacions comparteixen la mateixa solució estructural, però es diferencien en la franja central: a Bellmunt, llamborda de formigó monocapa de 200x100x80 mm color salmó (UNE-EN 1338), i a Pavia, llamborda ceràmica clínquer de 240x120x60 mm color vermell amb aparell matajunts (UNE-EN 1344). Es preveu així mateix la formació i reparació dels esglaons dels trams de carrer amb escales (50 unitats a Bellmunt i 145 a Pavia), amb el mateix acabat que la resta de la vialitat. Es formaran juntes de retracció conformant pastilles que en cap cas superaran els 20 m², i els límits d'acabat seran els de les edificacions existents i els que indica el planejament urbanístic vigent del municipi de Talavera. La solució adoptada garanteix les condicions d'accessibilitat i seguretat d'utilització mitjançant un itinerari mixt de vianants i vehicles en plataforma única, amb paviment dur, antilliscant en sec",
+      "organ": "Ajuntament de Talavera",
+      "scope": "Entitats de l'administració local",
+      "expedient": "58/2026",
+      "cpv": "45233222-1",
+      "amount": 8018524,
+      "date": "2026-07-11T20:18:00.000",
+      "status": "formalitzacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/cbc14e71-315f-4c8f-9149-2c4aa9336b72/300892519"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/cbc14e71-315f-4c8f-9149-2c4aa9336b72/300892519"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "formalitzacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Contracte formalitzat",
+        "recent_short": [
+          "Contracte formalitzat"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/cbc14e71-315f-4c8f-9149-2c4aa9336b72/300892519"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/cbc14e71-315f-4c8f-9149-2c4aa9336b72/300892519"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Gestió de residus",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/cbc14e71-315f-4c8f-9149-2c4aa9336b72/300892519"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "Sense títol",
       "organ": "Serveis Ambientals del Vallès Oriental, SA",
       "scope": "Entitats de l'administració local",
@@ -179607,47 +179781,6 @@
       "incumbent": null
     },
     {
-      "title": "Material de pintura",
-      "organ": "Prestació de Serveis a la Ciutadania, SA (PRESECSA)",
-      "scope": "Entitats de l'administració local",
-      "expedient": "452",
-      "cpv": "44800000-8",
-      "amount": 112047,
-      "date": "2026-06-30T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "Servicio médico de empresa",
       "organ": "Prestació de Serveis a la Ciutadania, SA (PRESECSA)",
       "scope": "Entitats de l'administració local",
@@ -180895,47 +181028,6 @@
         "labels": [],
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/274406d4-f23c-479e-bede-34f3641a1037/300854061"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Servicio de limpieza de mopas",
-      "organ": "Prestació de Serveis a la Ciutadania, SA (PRESECSA)",
-      "scope": "Entitats de l'administració local",
-      "expedient": "416",
-      "cpv": "90911300-9",
-      "amount": 315,
-      "date": "2026-06-30T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
         }
       },
       "programmed": {
@@ -225785,47 +225877,6 @@
       "incumbent": null
     },
     {
-      "title": "Material de pintura",
-      "organ": "Prestació de Serveis a la Ciutadania, SA (PRESECSA)",
-      "scope": "Entitats de l'administració local",
-      "expedient": "274",
-      "cpv": "44800000-8",
-      "amount": 60631,
-      "date": "2026-05-31T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "servei de recollida d'efectiu de caixa corresponent a les recaptacions des del 26 març al 22 d'abril, segons la documentació que s'adjunta.",
       "organ": "Institut Municipal de l'Habitatge i Rehabilitació de Barcelona",
       "scope": "Entitats de l'administració local",
@@ -225914,47 +225965,6 @@
       "expedient": "254",
       "cpv": "44100000-1",
       "amount": 2312,
-      "date": "2026-05-31T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Servicio de limpieza de mopas",
-      "organ": "Prestació de Serveis a la Ciutadania, SA (PRESECSA)",
-      "scope": "Entitats de l'administració local",
-      "expedient": "289",
-      "cpv": "90911300-9",
-      "amount": 315,
       "date": "2026-05-31T00:00:00.000",
       "status": "licitacio",
       "url": {
@@ -265462,47 +265472,6 @@
       "incumbent": null
     },
     {
-      "title": "Material de pintura",
-      "organ": "Prestació de Serveis a la Ciutadania, SA (PRESECSA)",
-      "scope": "Entitats de l'administració local",
-      "expedient": "117",
-      "cpv": "44800000-8",
-      "amount": 131015,
-      "date": "2026-04-30T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
       "title": "Servicio médico de empresa",
       "organ": "Prestació de Serveis a la Ciutadania, SA (PRESECSA)",
       "scope": "Entitats de l'administració local",
@@ -266380,47 +266349,6 @@
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/274406d4-f23c-479e-bede-34f3641a1037/300854061"
         }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Servicio de limpieza de mopas",
-      "organ": "Prestació de Serveis a la Ciutadania, SA (PRESECSA)",
-      "scope": "Entitats de l'administració local",
-      "expedient": "138.",
-      "cpv": "90911300-9",
-      "amount": 315,
-      "date": "2026-04-30T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/1b7c7279-d307-4111-a828-25e474d50e93/300881622"
-        }
-      },
-      "programmed": {
-        "matched": false
       },
       "incumbent": null
     },
