@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-10-04T02:34:35.426Z",
+    "generated_at": "2026-10-04T09:42:43.943Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
-    "items": 11956,
+    "items": 11957,
     "sources": [
       "PSCP publicacions",
       "PSCP execució",
@@ -18853,6 +18853,93 @@
         "title": "Sense títol",
         "amount": null,
         "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300867105"
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Campanya de comunicació i promoció del Nadal a Tarragona com a element dinamitzador del comerç local i de la ciutat.",
+      "organ": "Ajuntament de Tarragona",
+      "scope": "Entitats de l'administració local",
+      "expedient": "2026/3443",
+      "cpv": "79822500-7",
+      "amount": 14999,
+      "date": "2026-10-03T14:00:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7389cb1a-9053-4ad7-8787-0e96584d9f93/300898676"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/7389cb1a-9053-4ad7-8787-0e96584d9f93/300898676"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Licitació oberta",
+        "recent_short": [
+          "Licitació oberta"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7389cb1a-9053-4ad7-8787-0e96584d9f93/300898676"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/7389cb1a-9053-4ad7-8787-0e96584d9f93/300898676"
+        }
+      },
+      "programmed": {
+        "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Segona fase d'instal·lació fotovoltaica a la Pista Coberta de Pardines",
+      "organ": "Ajuntament de Pardines",
+      "scope": "Entitats de l'administració local",
+      "expedient": "X2026000230",
+      "cpv": "09332000-5",
+      "amount": 2214358,
+      "date": "2026-10-03T11:44:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/29121cdb-80fa-49fd-aad0-6189d78e3170/300895518"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/29121cdb-80fa-49fd-aad0-6189d78e3170/300895518"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Licitació oberta",
+        "recent_short": [
+          "Licitació oberta"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/29121cdb-80fa-49fd-aad0-6189d78e3170/300895518"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/29121cdb-80fa-49fd-aad0-6189d78e3170/300895518"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Instal·lació fotovoltaica equipaments municipals",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/29121cdb-80fa-49fd-aad0-6189d78e3170/300895518"
+        }
       },
       "incumbent": null
     },
@@ -48330,52 +48417,6 @@
         "amount": null,
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/bf6d99e2-d989-47bf-ab14-fc8194e2bd80/300890455"
-        }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "El present acord marc té per objecte el servei de tractament de lixiviats del Dipòsit Controlat de Residus de Mas de Barberans incloent-hi el transport associat per a l’extern i del tractament in situ mitjançant planta mòbil. L’acord marc tindrà per objecte la selecció de diversos gestors autoritzats per als possibles codis LER 19 07 03 , LER 19 07 02, LER 19 08 12 i LER 19 08 11 per al tractament de lixiviats i fluxos associats (concentrats i fangs), fixant condicions tècniques, ambientals, econòmiques i d’execució que regiran els contractes basats.",
-      "organ": "Consorci de Polítiques Ambientals de les Terres de l'Ebre (COPATE)",
-      "scope": "Entitats de l'administració local",
-      "expedient": "241/2026",
-      "cpv": "90420000-7",
-      "amount": 1745700,
-      "date": "2026-09-29T04:16:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/c55c26a7-b3c9-470d-a60f-a8d141f4b912/300892241"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/c55c26a7-b3c9-470d-a60f-a8d141f4b912/300892241"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 2,
-        "latest_short": "Licitació oberta",
-        "recent_short": [
-          "Licitació oberta"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c55c26a7-b3c9-470d-a60f-a8d141f4b912/300892241"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c55c26a7-b3c9-470d-a60f-a8d141f4b912/300892241"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Acord Marc de Selecció de Personal per IL3-UB",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c55c26a7-b3c9-470d-a60f-a8d141f4b912/300892241"
         }
       },
       "incumbent": null
@@ -90800,10 +90841,10 @@
       "date": "2026-09-10T04:16:00.000",
       "status": "avaluacio",
       "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6302ac9-27e0-49b4-b4a9-bad77ae041d0/300896146"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6302ac9-27e0-49b4-b4a9-bad77ae041d0/300899151"
       },
       "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6302ac9-27e0-49b4-b4a9-bad77ae041d0/300896146"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6302ac9-27e0-49b4-b4a9-bad77ae041d0/300899151"
       },
       "priority": "Seguiment",
       "tags": [
@@ -90816,14 +90857,14 @@
           "En avaluació"
         ],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6302ac9-27e0-49b4-b4a9-bad77ae041d0/300896146"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6302ac9-27e0-49b4-b4a9-bad77ae041d0/300899151"
         }
       },
       "signals": {
         "count": 0,
         "labels": [],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6302ac9-27e0-49b4-b4a9-bad77ae041d0/300896146"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6302ac9-27e0-49b4-b4a9-bad77ae041d0/300899151"
         }
       },
       "programmed": {
@@ -90831,7 +90872,7 @@
         "title": "Manteniment instal·lacions Illa A",
         "amount": null,
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6302ac9-27e0-49b4-b4a9-bad77ae041d0/300896146"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b6302ac9-27e0-49b4-b4a9-bad77ae041d0/300899151"
         }
       },
       "incumbent": null
@@ -115574,32 +115615,32 @@
       "cpv": "79996100-3",
       "amount": 12760,
       "date": "2026-08-28T10:02:00.000",
-      "status": "avaluacio",
+      "status": "adjudicacio",
       "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/af7bdfa6-fe0a-4c7c-b217-d8d3e4060267/300898288"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/af7bdfa6-fe0a-4c7c-b217-d8d3e4060267/300898792"
       },
       "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/af7bdfa6-fe0a-4c7c-b217-d8d3e4060267/300898288"
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/af7bdfa6-fe0a-4c7c-b217-d8d3e4060267/300898792"
       },
       "priority": "Seguiment",
       "tags": [
-        "avaluacio"
+        "adjudicacio"
       ],
       "alerts": {
         "count": 1,
-        "latest_short": "En avaluació",
+        "latest_short": "Adjudicació publicada",
         "recent_short": [
-          "En avaluació"
+          "Adjudicació publicada"
         ],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/af7bdfa6-fe0a-4c7c-b217-d8d3e4060267/300898288"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/af7bdfa6-fe0a-4c7c-b217-d8d3e4060267/300898792"
         }
       },
       "signals": {
         "count": 0,
         "labels": [],
         "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/af7bdfa6-fe0a-4c7c-b217-d8d3e4060267/300898288"
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/af7bdfa6-fe0a-4c7c-b217-d8d3e4060267/300898792"
         }
       },
       "programmed": {
