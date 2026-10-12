@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-12T02:21:08.698Z",
+    "generated_at": "2026-10-12T10:41:38.894Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
     "items": 13509,
     "sources": [
@@ -18624,6 +18624,52 @@
       "incumbent": null
     },
     {
+      "title": "L'objecte del present contracte és el subministrament dels reactius específics necessaris per a la realització de determinacions analítiques als laboratoris del Banc de Sang i Teixits (BST), així com la cessió, instal·lació, posada en funcionament i manteniment de l'equipament necessari per a la seva execució.",
+      "organ": "Banc de Sang i Teixits (BST)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CS/2000/1100008271/30/PO",
+      "cpv": "33696500-0",
+      "amount": 28995154,
+      "date": "2026-10-11T19:36:00.000",
+      "status": "licitacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/eebf8085-3f9f-4e06-a975-bcfca027b7c5/300879293"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/eebf8085-3f9f-4e06-a975-bcfca027b7c5/300879293"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "licitacio"
+      ],
+      "alerts": {
+        "count": 5,
+        "latest_short": "Licitació oberta",
+        "recent_short": [
+          "Licitació oberta"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/eebf8085-3f9f-4e06-a975-bcfca027b7c5/300879293"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/eebf8085-3f9f-4e06-a975-bcfca027b7c5/300879293"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Subministrament reactius de coagulació i cessió d'ús equipament",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/eebf8085-3f9f-4e06-a975-bcfca027b7c5/300879293"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "Sense títol",
       "organ": "Ajuntament de Santa Perpètua de Mogoda",
       "scope": "Entitats de l'administració local",
@@ -22139,52 +22185,6 @@
         "amount": null,
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/c0bdc9e1-bc90-4751-8b16-e65494010115/300905320"
-        }
-      },
-      "incumbent": null
-    },
-    {
-      "title": "L'objecte del present contracte és el subministrament dels reactius específics necessaris per a la realització de determinacions analítiques als laboratoris del Banc de Sang i Teixits (BST), així com la cessió, instal·lació, posada en funcionament i manteniment de l'equipament necessari per a la seva execució.",
-      "organ": "Banc de Sang i Teixits (BST)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "CS/2000/1100008271/30/PO",
-      "cpv": "33696500-0",
-      "amount": 27691229,
-      "date": "2026-10-09T12:44:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/eebf8085-3f9f-4e06-a975-bcfca027b7c5/300879293"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/eebf8085-3f9f-4e06-a975-bcfca027b7c5/300879293"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 5,
-        "latest_short": "Licitació oberta",
-        "recent_short": [
-          "Licitació oberta"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/eebf8085-3f9f-4e06-a975-bcfca027b7c5/300879293"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/eebf8085-3f9f-4e06-a975-bcfca027b7c5/300879293"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Subministrament reactius de coagulació i cessió d'ús equipament",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/eebf8085-3f9f-4e06-a975-bcfca027b7c5/300879293"
         }
       },
       "incumbent": null
