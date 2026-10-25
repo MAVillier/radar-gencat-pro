@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T06:03:05.418Z",
+    "generated_at": "2026-10-25T11:19:16.071Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
-    "items": 13153,
+    "items": 13154,
     "sources": [
       "PSCP publicacions",
       "PSCP execució",
@@ -112605,6 +112605,52 @@
       "incumbent": null
     },
     {
+      "title": "Substitució de coberta de fibrociment per panell Sandwich del Local Social i Obres d’acabament del magatzem annex.",
+      "organ": "Ajuntament de Collsuspina",
+      "scope": "Entitats de l'administració local",
+      "expedient": "252/2026",
+      "cpv": "45213220-1",
+      "amount": 9929075,
+      "date": "2026-09-14T08:38:00.000",
+      "status": "adjudicacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/ab723c5a-c21e-4e3b-9269-46f219c2745e/300918324"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/ab723c5a-c21e-4e3b-9269-46f219c2745e/300918324"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 2,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/ab723c5a-c21e-4e3b-9269-46f219c2745e/300918324"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/ab723c5a-c21e-4e3b-9269-46f219c2745e/300918324"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Substitució de coberta de fibrociment",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/ab723c5a-c21e-4e3b-9269-46f219c2745e/300918324"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "MAG/IVR Conservació i manteniment d'obres del sòl urbanitzat, obres d'urbanització, construccions rurals i naus industrials i altres edificacions del patrimoni de l'Institut Català del Sòl, situats a l'anomenada Zona 4 de Catalunya",
       "organ": "Institut Català del Sòl (INCASÒL)",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -215695,6 +215741,52 @@
       "incumbent": null
     },
     {
+      "title": "L’objecte del contracte és la prestació dels serveis de disseny, producció, construcció, transport, muntatge, dinamització i desmuntatge de l’estand de l’ICF a la fira 4YFN en el marc del MWC 2027, que es celebrarà, previsiblement, de l’1 al 4 de març del 2027, segons les característiques descrites al Plec de Prescripcions Tècniques.",
+      "organ": "Institut Català de Finances (ICF)",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "15/2026",
+      "cpv": "79950000-8",
+      "amount": 88000,
+      "date": "2026-07-24T15:32:00.000",
+      "status": "formalitzacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/c0d36685-7e4f-452c-9852-f959ecc9442f/300918329"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/c0d36685-7e4f-452c-9852-f959ecc9442f/300918329"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "formalitzacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Contracte formalitzat",
+        "recent_short": [
+          "Contracte formalitzat"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c0d36685-7e4f-452c-9852-f959ecc9442f/300918329"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c0d36685-7e4f-452c-9852-f959ecc9442f/300918329"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Servei de disseny i muntatge estands de la fira Gourmets 2027",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/c0d36685-7e4f-452c-9852-f959ecc9442f/300918329"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "Serveis de suport necessaris per al funcionament del Centre Cívic Torreblanca",
       "organ": "Ajuntament de Sant Joan Despí",
       "scope": "Entitats de l'administració local",
@@ -275564,47 +275656,6 @@
         "labels": [],
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/16118048-2924-42e4-bfaf-07189dde5909/300912591"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Actuació musical La Reina del Pop festa estiu 2026.",
-      "organ": "Ajuntament de Sils",
-      "scope": "Entitats de l'administració local",
-      "expedient": "X2026002466",
-      "cpv": "92312000-1",
-      "amount": 5000,
-      "date": "2026-07-06T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/2bb9c9db-3e00-460c-bd54-f483517183f7/300820528"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/2bb9c9db-3e00-460c-bd54-f483517183f7/300820528"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 3,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/2bb9c9db-3e00-460c-bd54-f483517183f7/300820528"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/2bb9c9db-3e00-460c-bd54-f483517183f7/300820528"
         }
       },
       "programmed": {
