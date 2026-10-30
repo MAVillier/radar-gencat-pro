@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T21:46:39.115Z",
+    "generated_at": "2026-10-30T01:55:35.179Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
     "items": 14082,
     "sources": [
@@ -308548,6 +308548,52 @@
       "incumbent": null
     },
     {
+      "title": "Servei de traducció i correcció dels textos de diversos documents del Departament de la Presidència",
+      "organ": "Departament de la Presidència",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "PR-2027-5",
+      "cpv": "79530000-8",
+      "amount": 192000,
+      "date": "2026-07-03T10:46:00.000",
+      "status": "adjudicacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b8bb2fa4-3af8-4040-adf0-9ba7a99b9037/300920866"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/b8bb2fa4-3af8-4040-adf0-9ba7a99b9037/300920866"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b8bb2fa4-3af8-4040-adf0-9ba7a99b9037/300920866"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b8bb2fa4-3af8-4040-adf0-9ba7a99b9037/300920866"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Pròrroga del Servei de traducció i correcció de documents",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/b8bb2fa4-3af8-4040-adf0-9ba7a99b9037/300920866"
+        }
+      },
+      "incumbent": null
+    },
+    {
       "title": "Aquest contracte té per objecte la prestació del servei de suport i evolució de projectes GEO que es realitzen a l’Institut Cartogràfic i Geològic de Catalunya d’acord amb els requisits indicats en el plec de prescripcions tècniques.",
       "organ": "Institut Cartogràfic i Geològic de Catalunya",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -344572,52 +344618,6 @@
       },
       "programmed": {
         "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Serveis de gestió i assistència en viatges, allotjaments, assegurances i serveis complementaris necessaris per al desenvolupament de les activitats del centre.",
-      "organ": "Consorci Centre de Recerca Ecològica i Aplicacions Forestals (CREAF)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "2026-CREAF-BAM-010-V3",
-      "cpv": "63510000-7",
-      "amount": 140000,
-      "date": "2026-06-29T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/9f2d0469-a9d9-447c-83e2-72889a9e1976/300922511"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/9f2d0469-a9d9-447c-83e2-72889a9e1976/300922511"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/9f2d0469-a9d9-447c-83e2-72889a9e1976/300922511"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/9f2d0469-a9d9-447c-83e2-72889a9e1976/300922511"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Servei de gestió i assistència en viatges",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/9f2d0469-a9d9-447c-83e2-72889a9e1976/300922511"
-        }
       },
       "incumbent": null
     },
