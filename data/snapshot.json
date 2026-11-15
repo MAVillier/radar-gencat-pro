@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-15T02:37:01.085Z",
+    "generated_at": "2026-11-15T10:45:32.738Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
     "items": 12764,
     "sources": [
@@ -67582,6 +67582,52 @@
         "amount": null,
         "url": {
           "url": "https://contractaciopublica.cat/ca/detall-publicacio/2fa13e4f-7c7f-4aaf-ad59-83393a27c0a8/300934797"
+        }
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Obres per la millora de la climatització de les consultes 1a a la 8a i de la sala d’espera de la 4a planta del CAP Maragall",
+      "organ": "ICS - GAPiC Àmbit Barcelona",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "CO/AP51/1101486259/26/CE",
+      "cpv": "45300000-0||45331230-7",
+      "amount": 78500,
+      "date": "2026-10-21T09:22:00.000",
+      "status": "adjudicacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/9f0d0572-8747-4c4e-83fe-09204a1167ab/300938884"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/9f0d0572-8747-4c4e-83fe-09204a1167ab/300938884"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/9f0d0572-8747-4c4e-83fe-09204a1167ab/300938884"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/9f0d0572-8747-4c4e-83fe-09204a1167ab/300938884"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Obres Planta 13 i 14 Hospital de la Dona",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/9f0d0572-8747-4c4e-83fe-09204a1167ab/300938884"
         }
       },
       "incumbent": null
@@ -340137,47 +340183,6 @@
       "organ": "Consell Comarcal del Berguedà",
       "scope": "Entitats de l'administració local",
       "expedient": "1363/2026_2",
-      "cpv": "",
-      "amount": null,
-      "date": "2026-05-26T00:00:00.000",
-      "status": "licitacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/25a42547-18a9-4e98-9845-4398bdc5510c/300930952"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/25a42547-18a9-4e98-9845-4398bdc5510c/300930952"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "licitacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "Actualització expedient",
-        "recent_short": [
-          "Actualització expedient"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/25a42547-18a9-4e98-9845-4398bdc5510c/300930952"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/25a42547-18a9-4e98-9845-4398bdc5510c/300930952"
-        }
-      },
-      "programmed": {
-        "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "Subscripció a Claude AI juliol26",
-      "organ": "Consell Comarcal del Berguedà",
-      "scope": "Entitats de l'administració local",
-      "expedient": "1363/2026_3",
       "cpv": "",
       "amount": null,
       "date": "2026-05-26T00:00:00.000",
