@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T07:37:07.442Z",
+    "generated_at": "2026-11-23T20:07:38.074Z",
     "snapshot_scope": "Tot 2026 · PSCP · CTTI + SEM + TMB/FMB + resta",
-    "items": 11743,
+    "items": 11741,
     "sources": [
       "PSCP publicacions",
       "PSCP execució",
@@ -61636,52 +61636,6 @@
       "incumbent": null
     },
     {
-      "title": "Servei d’assessorament estratègic de mitjans, planificació, negociació, compra, gestió i inserció de publicitat institucional en els mitjans de comunicació on i off line per a la difusió de campanyes de comunicació de l’Ajuntament de Viladecans, mitjançant el foment de la contractació de persones amb dificultats particulars d'inserció al mercat laboral i amb mesures de contractació pública sostenibles",
-      "organ": "Ajuntament de Viladecans",
-      "scope": "Entitats de l'administració local",
-      "expedient": "AA/AGI/Contractació/2026/54 - 21/2026/CSERV",
-      "cpv": "79341200-8",
-      "amount": 601512,
-      "date": "2026-11-13T09:56:00.000",
-      "status": "avaluacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/e63ab3f1-b2eb-4e0e-b620-4bda0fca73e1/300938022"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/e63ab3f1-b2eb-4e0e-b620-4bda0fca73e1/300938022"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "avaluacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "En avaluació",
-        "recent_short": [
-          "En avaluació"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/e63ab3f1-b2eb-4e0e-b620-4bda0fca73e1/300938022"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/e63ab3f1-b2eb-4e0e-b620-4bda0fca73e1/300938022"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Servei d'assessorament en matèria de contractació pública",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/e63ab3f1-b2eb-4e0e-b620-4bda0fca73e1/300938022"
-        }
-      },
-      "incumbent": null
-    },
-    {
       "title": "L’objecte del contracte és el subministrament del mobiliari tècnic per la sala-taller de l’Observatori del Montsec en el marc del Projecte del Nou telescopi.",
       "organ": "Institut d'Estudis Espacials de Catalunya",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -65563,6 +65517,47 @@
         "title": "Sense títol",
         "amount": null,
         "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300922494"
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Consisteix en la contractació del servei Cloudflare Zero Trust per un període de dos (2) anys, que inclou els serveis de Cloudflare Access (ZTNA) i Cloudflare Gateway (SWG) per a 350 usuaris, així com el suport Standard Success 24/7",
+      "organ": "Fundació Privada I2CAT, Internet i Innovació Digital a Catalunya",
+      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
+      "expedient": "2026110400",
+      "cpv": "48730000-4",
+      "amount": 48888,
+      "date": "2026-11-04T23:00:00.000",
+      "status": "adjudicacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/86c55608-1fae-4971-aba2-64422f22cde4/300946209"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/86c55608-1fae-4971-aba2-64422f22cde4/300946209"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "adjudicacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "Adjudicació publicada",
+        "recent_short": [
+          "Adjudicació publicada"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/86c55608-1fae-4971-aba2-64422f22cde4/300946209"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/86c55608-1fae-4971-aba2-64422f22cde4/300946209"
+        }
+      },
+      "programmed": {
+        "matched": false
       },
       "incumbent": null
     },
@@ -85113,52 +85108,6 @@
       "incumbent": null
     },
     {
-      "title": "Servei integral d’obtenció, tractament, explotació analítica i lliurament de dades de trànsit del conjunt de la xarxa viària interurbana de Catalunya, incloent, entre d’altres, la generació de velocitats mitjanes de recorregut, matrius origen–destí (O-D), anàlisi d’elements d’interacció de fluxos i serveis avançats d’explotació i suport a la presa de decisions, d’acord amb les especificacions establertes al plec de prescripcions tècniques.",
-      "organ": "Servei Català de Trànsit",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "SCT-2026-105",
-      "cpv": "72300000-8",
-      "amount": 105031551,
-      "date": "2026-10-15T09:38:00.000",
-      "status": "avaluacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/93e554a6-3c39-40dd-91ff-80631971edf8/300937960"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/93e554a6-3c39-40dd-91ff-80631971edf8/300937960"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "avaluacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "En avaluació",
-        "recent_short": [
-          "En avaluació"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/93e554a6-3c39-40dd-91ff-80631971edf8/300937960"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/93e554a6-3c39-40dd-91ff-80631971edf8/300937960"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Obtenció de dades de trànsit xarxa viària",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/93e554a6-3c39-40dd-91ff-80631971edf8/300937960"
-        }
-      },
-      "incumbent": null
-    },
-    {
       "title": "Assessorament fiscal i comptable d'AQU Catalunya",
       "organ": "Agència per a la Qualitat del Sistema Universitari de Catalunya",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -94419,6 +94368,52 @@
       },
       "programmed": {
         "matched": false
+      },
+      "incumbent": null
+    },
+    {
+      "title": "Contracte d'obres de pavimentació dels carrers Francesc Macià i carrer Montserrat al nucli antic de Banyeres del Penedès.",
+      "organ": "Ajuntament de Banyeres del Penedès",
+      "scope": "Entitats de l'administració local",
+      "expedient": "1235/2026",
+      "cpv": "45233252-0",
+      "amount": 11118322,
+      "date": "2026-10-06T08:48:00.000",
+      "status": "avaluacio",
+      "url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/0c4e6c84-bfd2-4704-9e3b-ff4a13629ade/300946029"
+      },
+      "follow_url": {
+        "url": "https://contractaciopublica.cat/ca/detall-publicacio/0c4e6c84-bfd2-4704-9e3b-ff4a13629ade/300946029"
+      },
+      "priority": "Seguiment",
+      "tags": [
+        "avaluacio"
+      ],
+      "alerts": {
+        "count": 1,
+        "latest_short": "En avaluació",
+        "recent_short": [
+          "En avaluació"
+        ],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/0c4e6c84-bfd2-4704-9e3b-ff4a13629ade/300946029"
+        }
+      },
+      "signals": {
+        "count": 0,
+        "labels": [],
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/0c4e6c84-bfd2-4704-9e3b-ff4a13629ade/300946029"
+        }
+      },
+      "programmed": {
+        "matched": true,
+        "title": "Obres de rehabilitació del pavello Montserrat",
+        "amount": null,
+        "url": {
+          "url": "https://contractaciopublica.cat/ca/detall-publicacio/0c4e6c84-bfd2-4704-9e3b-ff4a13629ade/300946029"
+        }
       },
       "incumbent": null
     },
@@ -116348,7 +116343,7 @@
         "adjudicacio"
       ],
       "alerts": {
-        "count": 3,
+        "count": 2,
         "latest_short": "Adjudicació publicada",
         "recent_short": [
           "Adjudicació publicada"
@@ -127385,52 +127380,6 @@
       "incumbent": null
     },
     {
-      "title": "La contractació dels serveis d’enginyeria de Redacció del Projecte de “ampliació de les instal·lacions de desmineralització de l’ETAP de Llobregat”. Id. Pla 1.1.31.",
-      "organ": "Ens d'Abastament d'Aigua Ter-Llobregat (ATL)",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "2026-0211-OSE",
-      "cpv": "71311000-1",
-      "amount": 83033653,
-      "date": "2026-09-15T04:32:00.000",
-      "status": "avaluacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/45b6c031-c5c6-410f-91a9-50e8ba423112/300938020"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/45b6c031-c5c6-410f-91a9-50e8ba423112/300938020"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "avaluacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "En avaluació",
-        "recent_short": [
-          "En avaluació"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/45b6c031-c5c6-410f-91a9-50e8ba423112/300938020"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/45b6c031-c5c6-410f-91a9-50e8ba423112/300938020"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "1.1.31LI-00041Ampliació de les instal·lacions de desmineralització de l'ETAP del Llobregat (FASE 2)",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/45b6c031-c5c6-410f-91a9-50e8ba423112/300938020"
-        }
-      },
-      "incumbent": null
-    },
-    {
       "title": "Servei de neteja de l'Institut Cambrils",
       "organ": "Centres educatius - Serveis Territorials a Tarragona",
       "scope": "Departaments i sector públic de la Generalitat de Catalunya",
@@ -129198,52 +129147,6 @@
       },
       "programmed": {
         "matched": false
-      },
-      "incumbent": null
-    },
-    {
-      "title": "CS/CC00/1101479983/27/AM: acord marc per al subministrament agregat d'implants endovasculars aòrtics (complementari) per a centres de l'Institut Català de la Salut",
-      "organ": "ICS - Gerència de compres",
-      "scope": "Departaments i sector públic de la Generalitat de Catalunya",
-      "expedient": "ICSCC00-2027-6",
-      "cpv": "33184100-4",
-      "amount": 5669325,
-      "date": "2026-09-14T13:12:00.000",
-      "status": "avaluacio",
-      "url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/e0665e8a-275e-4750-a14c-16205f825e69/300937867"
-      },
-      "follow_url": {
-        "url": "https://contractaciopublica.cat/ca/detall-publicacio/e0665e8a-275e-4750-a14c-16205f825e69/300937867"
-      },
-      "priority": "Seguiment",
-      "tags": [
-        "avaluacio"
-      ],
-      "alerts": {
-        "count": 1,
-        "latest_short": "En avaluació",
-        "recent_short": [
-          "En avaluació"
-        ],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/e0665e8a-275e-4750-a14c-16205f825e69/300937867"
-        }
-      },
-      "signals": {
-        "count": 0,
-        "labels": [],
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/e0665e8a-275e-4750-a14c-16205f825e69/300937867"
-        }
-      },
-      "programmed": {
-        "matched": true,
-        "title": "Subministrament d'implants endovasculars aòrtics",
-        "amount": null,
-        "url": {
-          "url": "https://contractaciopublica.cat/ca/detall-publicacio/e0665e8a-275e-4750-a14c-16205f825e69/300937867"
-        }
       },
       "incumbent": null
     },
